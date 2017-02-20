@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scoverage:scalac-scoverage-plugin_2.10:0.99.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scoverage/scalac-scoverage-plugin_2.10/0.99.2/scalac-scoverage-plugin_2.10-0.99.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scoverage/scalac-scoverage-plugin_2.10/0.99.2/scalac-scoverage-plugin_2.10-0.99.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scoverage/scalac-scoverage-plugin_2.10/0.99.2/scalac-scoverage-plugin_2.10-0.99.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.seqdoop:cofoja:1.1-r150">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seqdoop/cofoja/1.1-r150/cofoja-1.1-r150.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seqdoop/cofoja/1.1-r150/cofoja-1.1-r150-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seqdoop/cofoja/1.1-r150/cofoja-1.1-r150-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

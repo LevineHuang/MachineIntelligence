@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch02-intro/ch02-intro.iml" filepath="$PROJECT_DIR$/ch02-intro/ch02-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-recommender/ch03-recommender.iml" filepath="$PROJECT_DIR$/ch03-recommender/ch03-recommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-rdf/ch04-rdf.iml" filepath="$PROJECT_DIR$/ch04-rdf/ch04-rdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-kmeans/ch05-kmeans.iml" filepath="$PROJECT_DIR$/ch05-kmeans/ch05-kmeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-lsa/ch06-lsa.iml" filepath="$PROJECT_DIR$/ch06-lsa/ch06-lsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-graph/ch07-graph.iml" filepath="$PROJECT_DIR$/ch07-graph/ch07-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-geotime/ch08-geotime.iml" filepath="$PROJECT_DIR$/ch08-geotime/ch08-geotime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-risk/ch09-risk.iml" filepath="$PROJECT_DIR$/ch09-risk/ch09-risk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-genomics/ch10-genomics.iml" filepath="$PROJECT_DIR$/ch10-genomics/ch10-genomics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-book-parent.iml" filepath="$PROJECT_DIR$/spark-book-parent.iml" />
+    </modules>
+  </component>
+</project>

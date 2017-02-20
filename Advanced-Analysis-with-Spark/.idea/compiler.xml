@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ch02-intro" />
+        <module name="ch03-recommender" />
+        <module name="ch04-rdf" />
+        <module name="ch05-kmeans" />
+        <module name="ch06-lsa" />
+        <module name="ch07-graph" />
+        <module name="ch08-geotime" />
+        <module name="ch09-risk" />
+        <module name="ch10-genomics" />
+        <module name="common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch02-intro" target="1.5" />
+      <module name="ch03-recommender" target="1.5" />
+      <module name="ch04-rdf" target="1.5" />
+      <module name="ch05-kmeans" target="1.5" />
+      <module name="ch06-lsa" target="1.5" />
+      <module name="ch07-graph" target="1.5" />
+      <module name="ch08-geotime" target="1.5" />
+      <module name="ch09-risk" target="1.5" />
+      <module name="ch10-genomics" target="1.5" />
+      <module name="common" target="1.5" />
+      <module name="spark-book-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
