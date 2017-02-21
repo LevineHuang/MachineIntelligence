@@ -49,7 +49,7 @@ else:
 # dense(就是隐藏层，dense是稠密的意思)
 
 def train_model(model, train, test, nb_classes):
-	  # reshape参数：元组中只有一个元素时,需要在元素后添加逗号，不然创建出来的不是元组；将两个tuple合并成一个tuple，作为reshape的参数
+	  # reshape参数：元组中只有一个元素时,需要在元素后添加逗号，不然创建出来的不是元组；将两个tuple拼接构成一个参数
     X_train = train[0].reshape((train[0].shape[0],) + input_shape)  
     X_test = test[0].reshape((test[0].shape[0],) + input_shape)
     X_train = X_train.astype('float32')

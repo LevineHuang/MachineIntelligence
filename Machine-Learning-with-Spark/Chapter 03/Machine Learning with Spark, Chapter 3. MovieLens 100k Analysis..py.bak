@@ -156,7 +156,7 @@ fig.set_size_inches(16, 10)
 # In[60]:
 
 # to compute the distribution of ratings per user, we first group the ratings by user id
-user_ratings_grouped = rating_data.map(lambda fields: (int(fields[0]), int(fields[2]))).groupByKey() 
+user_ratings_grouped = rating_data.map(lambda fields: (int(fields[0]), int(fields[2]))).    groupByKey() 
 # then, for each key (user id), we find the size of the set of ratings, which gives us the # ratings for that user 
 user_ratings_byuser = user_ratings_grouped.map(lambda (k, v): (k, len(v)))
 user_ratings_byuser.take(5)
