@@ -38,11 +38,6 @@ Y_test = np_utils.to_categorical(y_test, nb_classes)
 model = Sequential()
 
 # border_mode参数的意义？
-# With border mode "valid" you get an output that is smaller than the input because the convolution is only computed where the input and the filter fully overlap.
-
-# With border mode "same" you get an output that is the "same" size as the input. That means that the filter has to go outside the bounds of the input by "filter size / 2" - the area outside of the input is normally padded with zeros.
-
-# Note that some libraries also support the border mode "full" where the filter goes even further outside the bounds of the input - up to "filter size - 1". This results in an output shape larger than the input.
 
 model.add(Convolution2D(32, 3, 3, border_mode='same',
                         input_shape=X_train.shape[1:]))
