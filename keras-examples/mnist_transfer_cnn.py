@@ -126,7 +126,7 @@ train_model(model,
             (X_test_lt5, y_test_lt5), nb_classes)
 
 # 每层有trainable属性，还有...
-# freeze feature layers and rebuild model
+# freeze feature layers and rebuild model，固定feature_layers中每层的参数
 for l in feature_layers:
     l.trainable = False
 
