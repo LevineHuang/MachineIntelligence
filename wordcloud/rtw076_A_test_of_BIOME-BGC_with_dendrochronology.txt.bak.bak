@@ -1,0 +1,388 @@
+A test of BIOME-BGC with dendrochronology for forests along the altitudinal gradient of  Mt. Changbai in northeast.China 
+Yulian.Wu1,., Xiangping.Wang1,.,*, Shuai.Ouyang1, 
+Kai.Xu1, Bradford A..Hawkins2 and Osbert Jianxin.Sun1 
+
+
+1 Key Laboratory for Forest Resources and Ecosystem Processes of Beijing, College of Forestry, Beijing Forestry University,  35 East Qinghua Road, Haidian, Beijing 100083, China 2 Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697, USA 
+*Correspondence address. College of Forestry, Beijing Forestry University, 35 East Qinghua Road, Haidian, Beijing 100083, China. Tel: +86-10-6233-8100; Fax: +86-10-6233-6400; E-mail: wangxiangping@bjfu.edu.cn 
+.These authors contributed equally to this work. 
+Abstract 
+Aims 
+Process-based models are basic tools for predicting the response of forest carbon to future climate change. The models have commonly been tested for their predictions of spatial variation in forest produc-tivity, but much less for their ability to predict temporal variation. Here, we explored methods to test the models with tree rings, using BIOME-BGC as an example. 
+
+Methods 
+We used net primary productivity (NPP) data and tree rings col-lected from five major forest types along the altitudinal gradient of Mt. Changbai, northeast China, to test local-parameterized BIOME-BGC model. We first test the model’s predictions of both spatial (Test 1).and temporal changes (Test 2).in productivity. Then we test if the model can detect the climatic factors limiting forest productiv-ity during historical climate change, as revealed by dendroclimatic analyses (Test 3). 
+
+Important Findings 
+Our results showed that BIOME-BGC could well simulate NPP of five forest types on Mt. Changbai, with an r2 of 0.69 between mod-eled and observed NPP for 17 plots along the altitudinal gradient (Test 1). Meanwhile, modeled NPP and ring-width indices were cor-related and showed similar temporal trends for each forest type (Test 2). While these tests suggest that the model’s predictions on spatial and temporal variation of NPP were acceptable, a further test that relate the correlations of modeled NPP with climate variables to the correlations of ring widths with climate (Test 3).showed that the model did not well identify the climatic factors limiting historical productivity dynamics for some forest types, and thus cannot reli-ably predict their future. Both dendrochronology and BIOME-BGC showed that forest types differed markedly in the climate factors limiting productivity because of differences in tree species and cli-mate condition, and thus differed in responses to climate change. Our results showed that a successful prediction of spatial NPP pat-terns cannot assure that BIOME-BGC can well simulate histori-cal NPP dynamics. Further, a correlation between modeled NPP and tree-ring series cannot assure that the limiting climatic factors for productivity have been correctly identified by the model. Our results suggest the necessity to test the temporal predictions of pro-cess-based models in a more robust way, and further integration of dendrochronology and biogeochemistry modeling may be helpful for this purpose. 
+Keywords: net primary productivity (NPP); process-based model; tree ring; model validation; altitudinal gradient 
+Received: 12 November 2015, Revised: 28 April 2016, Accepted: 21 July 2016 
+in ecology during the past decades (Running and Hunt 1993;
+INTRODUCTION 
+Fang et.al. 2001; Goodale et.al. 2002; Piao et.al. 2009). Forests Monitoring, understanding and predicting the response of for-in the mid and high latitudes of the Northern Hemisphere est carbon balance to climate change have been a central issue have been recognized as a large carbon sink (Dixon et.al. 1994; Ciais et.al. 1995; Fang et.al. 2001; Schimel et.al. 2001; Fang et.al. 2006; Piao et.al. 2009). However, this huge carbon pool and sink may change into a carbon source as a result of cli-mate and land-use changes (Houghton 2005; IPCC 2007; Peng et.al. 2009). Northeast China is the most important for-est region in China, occupying ca. 35% of the forest area and 40% of the forest biomass of China (Fang et.al. 2001). Recent studies have found conflicting results on the carbon balance for forests in northeast China, with some studies identifying them as a substantial carbon sink (Fang et.al. 2001; Tan et.al. 2007; Peng et.al. 2009), while others identified them as car-bon sources (Piao et.al. 2009). This region has experienced the most drastic climatic warming over the past decades in China 
+(e.g. Ren et.al. 2005), thus there is no disagreement as to the urgent need to understand the response of forest carbon to climate changes in northeast China (Shao et.al. 2001; Ni 2002; Wang et.al. 2008; Peng et.al. 2009). 
+Ecological models are indispensable tools for estimating and understanding the responses of net primary productivity (NPP) to climate change (Field et.al. 1998; Turner et.al. 2004; Norby et.al. 2005; Piao et.al. 2009). Compared to satellite-based models (e.g. Field et.al. 1998; Piao et.al. 2005), process-based models have the advantage to predict the responses of ecosystems to future climate changes. They also represent powerful tools for understanding the complex (and interac-tive) effects of climate change and elevated atmospheric CO2 (Cramer et.al. 2001; Peng et.al. 2009; Piao et.al. 2009; Girardin et.al. 2011). However, a common challenge with process-based modeling at larger scales is model validation because field observations are limited (Peng et.al. 2009), especially the lack of data on long-term variation of forest productiv-ity. Consequently, whereas many studies have tested the abil-ity of process-based models to predict spatial NPP patterns, much fewer have evaluated the models’ ability to simulate temporal variation in forest productivity (e.g. Rathgeber et.al. 2003; Cienciala and Tatarinov 2006; Ueyama et.al. 2010). But it is clear that the models’ predictions of forests responses to future climate change will be reliable only if they can rea-sonably simulate historical variation in forest productivity. In a study that assessed 16 process-based models, Keenan et.al. (2012) found that none of the models could stimulate observed inter-annual variability of carbon flux satisfactorily, highlighting the critical importance for biogeochemistry mod-els to be tested for their predictions on temporal dynamics. 
+Three types of field-based data were generally used to vali-date the modeled NPP time series: (i) repeated measurements of permanent plots (e.g. Cienciala and Tatarinov 2006), (ii) carbon flux data estimated from the eddy covariance method 
+(e.g. Law et.al. 2004; Ueyama et.al. 2010; Mitchell et.al. 2011), and (iii) tree rings (e.g. Hunt et.al. 1991; Malmstr.m et.al. 1997). The former two data sources, despite many advan-tages, are available from limited sites where long-term studies have been conducted. Tree rings are sensitive records of long-term responses of forest growth to historical climate changes (Fritts 1976; Esper et.al. 2002), and can be easily sampled from various forest types in remote sites. Consequently, dendro-chronology has long been widely used in climate change stud-ies (e.g. Fritts 1976; Esper et.al. 2002; Lara et.al. 2005; Wang et.al. 2006). Meanwhile, ring widths have proved a good proxy of forest NPP because tree radial growth is proportional to annual NPP (e.g. Graumlich et.al. 1989; Rathgeber et.al. 2003; Kong et.al. 2012; Li et.al. 2014). As a result, tree rings have long been used to validate the NPP time series predicted by biogeochemistry models (e.g. Malmstr.m et.al. 1997; Pietsch and Hasenauer 2002; Rathgeber et.al. 2003; Su et.al. 2007). However, in previous studies, tree-ring chronologies were simply compared and correlated with modeled NPP series. In fact, dendrochronology also provides well-established meth-ods to analyze the response of forest growth to historical cli-mate variability (e.g. Fritts 1976), but these advantages have not yet been fully utilized in the validation of process-based models. 
+In dendrochronology, it is a common practice to analyze ring widths in relation to climate of different seasons to detect the limiting climatic factors for forest growth (Fritts 1976), which has proved effective in identifying different responses of forests to historical climatic variability (e.g. Lara et.al. 2005; Wang et.al. 2006; Chang et.al. 2009). Here, we utilized this analysis to further test process-based modeling. If the mod-els have well simulated the historical forest dynamics, then the modeled NPP time series should reveal similar relation-ships with climate variables in different seasons as tree-ring chronologies do. If biogeochemistry models fail to detect the limiting climatic factors for forest productivity in the past, it is unlikely that the models can predict the future reliably. Clearly, this test is also useful when the modeled NPP series are validated using other data sources (e.g. flux tower.data). 
+In this analysis, we utilize the widely used process-based model BIOME-BGC to explore how to better validate car-bon process modeling with dendrochronology. We tested the model (when constrained by local parameters) from three aspects as follows. 
+Test 1: the model should be able to predict both the NPP of 
+various forest types and the spatial NPP patterns along 
+
+environmental gradients (e.g. Peng et.al. 2009). Test 2: model-estimated annual NPP should show similar tem-
+poral trends to tree-ring chronologies, and they should 
+
+be significantly correlated (e.g. Rathgeber et.al. 2003). Test 3: the annual NPP series predicted by BIOME-BGC 
+should also show similar correlations with seasonal 
+climate as tree-ring chronologies do. 
+
+Mt. Changbai is the highest mountain (2691 m) in northeast Asia and harbors all the latitudinal forest zones in north-east China along its altitudinal gradient. Here, we used field NPP observations along the altitudinal gradient, and tree rings sampled from different forest types on Mt. Changbai, to determine if parameterized BIOME-BGC can simulate both altitudinal and temporal variation in productivity. We also examined how different forest types differed in climatic control of inter-annual variations of productivity, which is important to reduce the uncertainties in modeling regional carbon balance in response to climate change (Law et.al. 2004; Ouyang et.al. 2014). 
+MATERIAL AND METHODS 
+
+Study.area 
+Mt. Changbai (41°43′–42°26′N, 127°42′–128°17′E) is situated at the border between northeast China and North Korea. The climate in this region is characterized by warm summers, cold winters, abundant precipitation and a short growing season, largely controlled by the East Asian monsoon. With increas-ing altitude from mountain foot to top, mean annual tem-perature decreases from 4.9°C to .7.3°C and mean annual precipitation increases from 600 to 1340mm (Zhang et.al. 1980). Major soil types include dark-brown forest soil (<1000 m), brown needle-leaf forest soil (1000–1800 m), calcic cher-nozems (1800–2000 m) and tundra soil (>2000 m). As a result of the climatic and soil gradients, different forest types are distributed along the altitudinal gradient of Mt. Changbai. 
+(i) 500–1100 m: mixed broad- and needle-leaved forest (MBN), composed of Pinus koraiensis and broadleaf species such as Quercus mongolica, Tilia spp., and Betula and Populus forest (BPF); (ii) 1100–1700 m: evergreen needle-leaved for-est (ENF), composed of Picea jezoensis and Abies nephrolepis, and deciduous needle-leaved forest (DNF) dominated by Larix olgensis; (iii) 1700–2000 m: Betula ermanii forest (BEF) (Wang et.al. 1980). With large climate gradient and different vegetation types along its altitudinal gradient, Mt. Changbai provides an ideal template to examine the responses of forest ecosystems in northeast China to both spatial climatic gradi-ents and temporal climate changes (Shao et.al. 2001; He et.al. 2005; Wang et.al. 2009; Fang et.al. 2012). 
+
+NPP and tree-ring.data 
+To test the ability of BIOME-BGC to model the spatial variation in NPP, we compiled literature data reported for different for-est types and altitudes on Mt. Changbai. For each plot where NPP was measured, we recorded forest type, species composi-tion, total (above and below ground) NPP, geographic coordi-nate (latitude, longitude, altitude), local topography (aspect and slope), and soil variables needed for the model. Data for 17 plots distributed from 590 m to 1940 m were obtained (Li et.al. 1981; Luo 1996; Wang 2006), covering the five major forest types on Mt. Changbai with at least three observations from each forest type (BEF, DNF, ENF, BPF and.MBN). 
+To test the temporal variation of modeled NPP, we selected a typical site from each forest type to sample tree-ring cores (Table.1), based on previous studies in Mt. Changbai (e.g. Wang et.al. 2008; Wang et.al. 2009; Zhu et.al. 2010). In the summer of 2007, 25 to 30 canopy-layer trees were randomly selected at each site, and two tree-ring cores at breast height 
+(1.30 m) were extracted from two vertical directions, follow-ing standard dendrochronological techniques. 
+All cores were mounted and sanded with successively finer grades of sandpaper until annual rings could be easily dis-tinguished. Tree rings were cross-dated visually using the skeleton plot method (Schweingruber 1996), and the ring widths were measured with an accuracy of 0.001mm using the LINTAB5 measurement system and TSAP software (Frank Rinn Co. Ltd, Germany). The quality of cross-dating and measurement was checked by cross-correlation analysis using the software COFECHA (Holmes 1983). Some cores were excluded because they could not be well measured or cross-dated, and the remaining 167 cores from 126 trees were used for further analysis. 
+We constructed a chronology for each of the five forest types, using 30–38 cores from each forest type (Table.1). The growth trends (decreasing ring-width with increased age) were removed from raw ring-width data with spline or expo-nential curves, which was necessary for examining the high-frequency growth variation associated with climate changes (Fritts 1976). A.residual chronology that maximized the cli-matic signal was then created for each forest type using the ARSTAN software (Cook and Holmes 1986). The qualities of the chronologies were evaluated with their standard devia-tion, mean sensitivity (MS) and expressed population signal (EPS) (Table.1). 
+
+The BIOME-BGC model and its parameterization 
+BIOME-BGC is a biogeochemical model that simulates the storage and fluxes of water, carbon and nitrogen in terres-trial ecosystems from single plot to regional and global scales (Kimball et.al. 2007). The model has been successfully applied and validated over a number of biomes, spatial scales and cli-mate regimes, including various forest ecosystems from differ-ent continents (White et.al. 2000; Turner et.al. 2004; Cienciala and Tatarinov 2006; Kang et.al. 2006; Su et.al. 2007; Ueyama et.al. 2010). Details of the model have been presented by pre-vious studies (e.g. White et.al. 2000; Thornton et.al. 2002), and thus are described only briefly.below. 
+The primary ecological processes modeled by BIOME-BGC are photosynthesis, evapotranspiration, respiration (includ-ing autotrophic and heterotrophic respiration), the allocation of photosynthetic assimilates, decomposition and mortality. Model simulation requires daily climate data, information for the general environment (soil, vegetation and site conditions) and parameters describing the eco-physiological characteris-tics of the vegetation. In BIOME-BGC, NPP is defined as the daily difference between gross photosynthesis and autotrophic respiration. Photosynthesis is calculated separately for sunlit and shaded canopy components using a modified form of the Farquhar biochemical mode (Farquhar and Von Caemmerer 1982). Autotrophic respiration is the sum of maintenance res-piration and growth respiration of different parts of plant (can-opy, stem and roots). Maintenance respiration is calculated from a base respiration rate adjusted for tissue nitrogen con-centration and temperature. Growth respiration is calculated as a constant proportion of new tissue carbon construction for 
+Table.1: general statistics of the chronologies developed for major forest types on Mt. Changbai, northeast China 
+Sampling site Tree-ring chronology 
+Forest type  Altitude (m)  Latitude (°N)  Longitude (°E)  Period (year)  Core/tree number  Mean sensitivity  Standardized deviation  EPS  
+BEF DNF ENF BPF MBN  1900 1500 1400 950 850  42.06 42.09 42.10 42.23 42.32  128.07 128.08 128.09 128.18 128.12  1944–2006 1905–2006 1912–2006 1942–2006 1924–2006  35/30 30/21 38/30 33/25 31/20  0.389 0.291 0.156 0.153 0.168  0.280 0.239 0.148 0.200 0.150  0.929 0.936 0.859 0.938 0.872  
+
+woody and non-woody tissue types. In this analysis, we used the version 4.2 of BIOME-BGC model, which is available at: http://www.ntsg.umt.edu/project/biome-bgc. 
+BIOME-BGC requires a set of eco-physiological parameters to characterize the biome to be simulated (White et.al. 2000). In this study, the 34 eco-physiological parameters for each for-est type came from three sources (see online supplementary Appendix 1). (i) In a previous study, we measured specific leaf area, leaf carbon: nitrogen (C:N) ratio and live wood C:N ratio for dominant species of the five forest types in Mt. Changbai (Fan 2011). A.previous sensitivity analysis showed that, for woody biomes, the predicted NPPs of BIOME-BGC were very sensitive to variation in specific leaf area and leaf C:N ratio (White et.al. 2000), and thus local measurements of these parameters are preferred. (ii) Some parameters were collected from the literature (see online supplementary Appendix 1). Whenever possible, we used data from the same forest type on Mt. Changbai or northeast China. In some cases we also used literature values for similar tree species under similar cli-mates. (iii) For other parameters, we used the default values of BIOME-BGC.4.2. 
+BIOME-BGC did not provide the eco-physiological param-eters for MBN. For this forest type, we used the method adopted by Kang et.al. (2006). We set the eco-physiological parameters separately for needle-leaf species and decid-uous broadleaf species (i.e. MBN-PK and MBN-DB in online supplementary Appendix 1), and ran the model sepa-rately. Then the NPPs of needle- and broadleaf species were averaged based on their relative proportions to obtain the stand NPP. 
+
+Meteorological data and model simulations 
+Daily records of maximum and minimum temperatures and precipitation for the period of 1958–2006, from the meteor-ological station at the foot of Mt. Changbai (590 m), were obtained from the China National Climatic Data Center. These data were used to estimate the meteorological varia-bles at each simulation site, using the microclimate simulator MT-CLIM 4.3 (http://www.ntsg.umt.edu/project/mtclim) to correct for differences in elevation, slope and aspect between the meteorological station and the simulated sites (Thornton and Running 1999; Thornton et.al. 2000). Other climatic vari-ables needed by the BIOME-BGC (e.g. shortwave radiation, vapor pressure deficit and day length) were also estimated with MT-CLIM 4.3. Historical atmospheric CO2 concentra-tions data were obtained from the Mauna Loa observation station (MLO; 19.5°N, 155.6°W) of National Oceanic and Atmospheric Administration (NOAA) observation station. MLO is located in the Hawaii islands of the Pacific Ocean. The undisturbed air, remote location and minimal influences of human activity at MLO are ideal for monitoring global change in atmosphere CO2. Consequently, the MOL CO2 records are widely used in process-based modeling studies. 
+The model simulation included two stages: spin-up simula-tion and normal simulation. In the spin-up run, the model was run to steady-state ecosystem carbon and nitrogen pool conditions, using historical meteorological data and fixed pre-industrial atmospheric CO2 concentration (294.8ppm) and nitrogen deposition rate (0.0001kg N m2 year.1). The spin-up procedure was completed until a steady state was reached among climate, vegetation, ecophysiology, soil organic matter and nutrient pools (Thornton et.al. 2002). The endpoint of the spin-up run was used as the initial conditions for subsequent normal model simulation. In the normal simulation stage, we simulated the historical NPP dynamic of each modeling site to obtain the predicted values used for model validation (see below), using metrological data and CO2 concentration from 1958 to 2006. We did not model NPP’s response to future cli-mate scenarios because the modeling results for three forest types did not pass the final test we proposed (see Results), which prevented a reliable prediction of the future. 
+
+Model validation 
+As mentioned in the Introduction, we tested BIOME-BGC modeling from three aspects. 
+i) To test the model’s ability to simulate spatial variation in NPP, we ran BIOME-BGC for each of the 17 NPP observa-tion plots. Since ordinary least squares regression tends to underestimate regression slope, we used standard major axis regression to fit modeled and observed values. If the r2 between observed NPP and modeled NPP (averaged over 1958 to 2006 for each plot) was sufficiently high, and the 95% confidence interval (CI) for the regression slope and intercept included 1 and 0, respectively, then the model prediction was judged to be acceptable. We also examined whether BIOME-BGC could predict the NPPs for different forest types, we tested whether the modeled NPPs were significantly different from observed values using the plots from each forest type. 
+ii) We used tree-ring chronologies to test the model’s ability to simulate the historical variation in forest productivity. For this test, we ran BIOME-BGC for each forest type at the site where the tree rings were sampled. We compared the modeled annual NPP series with tree-ring chronolo-gies to determine whether they showed similar temporal trends and the extent to which they were correlated (e.g. Rathgeber et.al. 2003). 
+iii) In addition to the commonly used method, we further correlated both the modeled annual NPP series and tree-ring chronologies to seasonal climate and yearly CO2 concentrations during the period of 1958 to 2006. The climatic variables used in the analysis included mean temperature and total precipitation of the current year’s spring (March to May), summer (June to August) and au-tumn (September to November), as well as temperature and precipitation of the four seasons in the previous year. The latter climatic variables are necessary because many dendrochronology studies have shown that the climate in the previous year can have strong influences on for-est growth (e.g. Fritts 1976; Wang et.al. 2006; Chang et.al. 2009). For this analysis, seasonal climatic variables were calculated from the daily temperature and precipitation data used in BIOME-BGC modeling. We also repeated the analyses using monthly temperature and precipitation. Since the results were similar, we reported only the results based on seasonal climate variables for simplicity. 
+When examining whether modeled annual NPP showed simi-lar correlations with climate as tree-ring chronologies do, we did not simply focus on the individual correlations that were significant. To avoid the potential limitations of correlation analysis (see Discussions for details), we regressed the correla-tions of modeled NPP with different climate variables against that of ring-width indices. We used this method to examine whether BIOME-BGC had identified the limiting (and non-limiting) climatic factors for forest productivity during histori-cal climate changes, as revealed by tree-ring chronologies. 
+RESULTS 
+
+Temporal variation in climate and tree-ring.width 
+Annual mean temperature increased by 0.01°C/year during the last decades at lower altitudes of Mt. Changbai, but annual precipitation did not changed significantly over time (Fig..1). 
+The residual chronology for each forest type had an EPS >0.85 and a MS >0.15 (Table.1), which were high enough for a good examination of forest growth in response to climatic variation (Wigley et.al. 1984; Rolland 1993; Wang et.al. 2006). The MS was generally higher for forest types distributed at higher altitudes while lower for low-altitude forest types. 
+Validation of BIOME-BGC across altitudinal gradient and forest.types 
+Field-observed NPP in Mt. Changbai decreased significantly with increasing altitude (Fig..2a). This spatial pattern was well modeled by BIOME-BGC, with simulated and observed NPP had an r2 of 0.69 (Fig..2b). The 95% CIs of the slope (0.62–1.14) and intercept (.24 to 244).included 1 and 0, respectively, and thus the model prediction of spatial NPP pattern was satisfied. 
+The mean observed NPP was 594.66g C m.2 yr.1 for plots from MBN and was 636.05g C m.2 yr.1 for BPF, 489.15g C 
+
+Figure.1: changes in mean annual temperature and precipitation during 1958–2006 at the meteorological station (590 m a.s.l.) on Mt. Changbai, northeast China. 
+
+Figure.2: field-measured NPP for five forest types on Mt. Changbai in comparison with BIOME-BGC estimates. (a) Altitudinal pattern of observed forest NPP. (b) BIOME-BGC estimated NPP plotted against observed data for the 17 plots in (a). The slope (S) and intercept (I) of standard major axis regression, together with their 95% confidence intervals, were reported. (c) Mean BIOME-BGC estimates in comparison with mean observed NPP for plots from each forest type, the error bar denotes the standard errors. The modeled and observed NPP were not 
+significantly different at P.=.0.05. 
+m.2 yr.1 for ENF, 459.41g C m.2 yr.1 for DNF, and 222.3g C m.2 yr.1 for BEF (Fig..2c). For each forest type, modeled and observed NPP values were similar and not significantly dif-ferent (P > 0.05), indicating that the NPPs of different forest types were also well predicted. 
+Validation of the temporal dynamics predicted by BIOME-BGC 
+The annual NPP series simulated by BIOME-BGC were sig-nificantly (P <.0.05) correlated with tree-ring chronologies for DNF, ENF and BPF (Fig..3), with a correlation coefficients (r) between 0.29 and 0.37. For the other two forest types (BEF and MBN), the correlations between model NPP and ring-width series were marginally significant (P =.0.05 and 0.06, respectively). Despite differences in some years, the overall temporal trends were roughly similar between ring-width indices and model NPP estimates. 
+Both modeled annual NPP and ring widths were signifi-cantly correlated with current-year summer temperature for DNF and ENF (Table.2), but the correlation was negative for ENF while positive for DNF. For ENF, both modeled NPP and ring-width series were also closely correlated with summer temperature and autumn precipitation of the previous year. For other forest types, the climatic variables that were signifi-cantly correlated with modeled NPP and ring-width indices were generally different. 
+The correlations of modeled NPP with each climatic/CO2 variable were positively and significantly related to the cor-relations between ring-width and each climatic/CO2 variable, for DNF and ENF but not for the other three forests (Fig..4). Thus, only DNF and ENF passed the Test 3 we proposed, while other forest types did.not. 
+DISCUSSION 
+The ability of the models to predict spatial vs. temporal variation 
+Some studies have used ecological models to investigate the responses of forest ecosystems to future climate changes on Mt. Changbai or in northeast China, based on gap mod-els (e.g. Shao et.al. 2001; He et.al. 2005) or biogeochemis-try models (e.g. Gao and Zhang 1997; Ni 2002; Peng et.al. 
+320 
+
+
+However, this assumption was not supported by the pre-
+1.6 sent analysis. We found that the altitudinal NPP pattern in 
+280 
+
+Mt. Changbai and the NPP for each forest types were well 
+1.2 
+
+predicted by BIOME-BGC (Fig..2, Test 1). Nevertheless, 
+.8 	this success in modeling spatial NPP pattern cannot assure
+240 
+
+that the response of forest productivity to historical cli-
+.4 
+
+mate change are also well modeled (Fig..4, see below for 
+1.6 
+
+details). 
+1.4 
+500 
+
+
+
+Utilizing dendrochronology for model validation
+1.2 
+
+1.0 Since the early 1990s, studies have used tree rings to vali-.8 date process-based models (e.g. Hunt et.al. 1991; Malmstr.m 
+450 
+400 
+
+.6 et.al. 1997; Rathgeber et.al. 2003; Su et.al. 2007). However, 
+tree-ring chronologies were simply used to be correlated with
+350 
+.4 
+1000 
+
+modeled NPP in previous analyses. In this paper, we propose 
+1.4 
+
+-2 -1)
+NPP(gCm yr
+to further test BIOME-BGC with dendroclimatic analysis,
+1.2 
+
+which is widely used in tree-ring researches.
+1.0 
+RWI 
+When examining whether modeled NPP and tree-ring
+.8 
+
+.6 chronologies have had similar responses to historical climate .4 variation, some problems associated with correlation analy-
+sis and dendrochronology should be noted. First, though the 
+1.4 climatic signals have been maximized through the methods 
+1.2 to construct the chronologies, ring-width series may still 
+contain variation caused by interactions among trees, dis-
+1.0 
+
+turbance, etc. (Fritts 1976; Schweingruber 1996). This noise
+.8 
+
+may influence the analysis between tree-ring chronologies 
+.6 
+
+and climate indices, and thus, a non-significant correlation 
+.4 	may not necessary mean that forest growth is not affected 
+
+
+1.4 by a climatic variable. Second, sometimes a significant cor-
+1.2 	relation between ring-width (and NPP) series and climate may be obtained simply by chance (Lara et.al. 2005; Zeng
+1.0 
+
+et.al. 2012). An effective way to circumvent these limita-
+.8 
+
+tions is to explore spatial or temporal patterns in the correla-
+.6 tions between ring-width and climatic variables instead of 
+Year 
+
+Figure.3: NPP series for forest types modeled by BIOME-BGC from 1958 to 2006, in comparison with RWI of each forest type. Abbreviation: RWI, ring-width indices. 
+2009). These studies not only improve our understanding of forests in northeast China in response to climate change but have also well modeled the spatial pattern of forest productivity in this region. However, few of these models have been tested for their predictions on historical dynam-ics because of the lack of validation data. Thus, these stud-ies actually predicted future forest dynamics based on an implicit assumption that: if a model can well-predict spatial patterns along climatic gradients, then it can also predict forest responses caused by temporal climate change, and thus the model can be used to predict the future. In fact, this implicit assumption is widely seen in ecological mod-eling when long-term field observations were not available 
+(e.g. Araujo and Guisan 2006). 
+only focusing on a few significant correlations. For instance, some studies have shown that the correlations between ring widths and climatic variables changed regularly with lati-tude or altitude, indicating that the limiting climatic factors for forest growth change along latitudinal and altitudinal gradients (e.g. Lara et.al. 2005; Chang et.al. 2009; Sidor et.al. 2015). The logic underlying the new test (Test 3).we propose is as follows. (i) In Table.2, stronger correlations between ring-width and climatic variables generally (but not neces-sary) suggest that the climatic variables are stronger limiting factors for forest productivity, whereas weaker correlations generally suggest the climatic variables are less limiting. This is a basic assumption of dendroclimatic analysis (Fritts 1976; Lara et.al. 2005; Chang et.al. 2009). (ii) If BIOME-BGC has correctly identified both the limiting and non-limiting cli-matic factors for forest productivity during historical climate change, then the correlations of model NPP to various cli-mate variables should be similar to that of tree-ring chronol-ogy (Fig..4). 
+In our results, the correlations between modeled NPP and ring-width series were significant or at least marginally 
+Table.2: Pearson correlations of BIOME-BGC estimated NPP, and tree-ring width indices, with seasonal mean temperature or total precipitation and yearly CO2 concentrations between 1958 and 2006 
+NPP estimated by BIOME-BGC  Tree-ring width indices  
+BEF  DNF  ENF  BPF  MBN  BEF  DNF  ENF  BPF  MBN  
+Seasonal mean temperature  
+CSpr  0.071  0.367**  .0.085  0.560**  .0.045  0.294*  0.216  0.214  0.127  0.176  
+CSum  0.745**  0.462**  .0.421**  0.281*  .0.240’  0.265’  0.337*  .0.458**  0.138  .0.205  
+CAut  0.181  0.112  .0.048  0.166  .0.008  0.016  0.184  .0.109  0.216  0.350**  
+PSpr  0.126  0.270*  .0.061  0.171  .0.006  0.158  0.163  0.019  .0.065  .0.111  
+PSum  .0.05  0.137  0.404**  0.105  0.360**  .0.196  .0.291*  0.392**  .0.135  .0.041  
+PAut  0.185  0.098  0.022  0.016  0.054  .0.118  .0.238’  0.041  .0.083  .0.135  
+PWin  0.255’  0.230’  0.078  0.337*  0.108  .0.082  0.169  0.195  0.106  0.003  
+Seasonal total precipitation  
+CSpr  0.153  .0.140  0.210  .0.066  0.189  0.095  0.119  .0.18  .0.125  .0.2  
+CSum  0.088  .0.055  0.575**  .0.016  0.635**  0.064  .0.226  0.121  .0.21  0.116  
+CAut  0.291*  0.143  0.244 ’  0.169  0.299*  .0.041  .0.024  0.075  0.204  0.195  
+PSpr  .0.084  .0.105  0.252’  0.047  0.291*  .0.06  .0.239’  0.166  .0.113  .0.054  
+PSum  0.073  0.092  .0.269*  0.111  0.109  0.145  0.013  .0.097  0.073  .0.167  
+PAut  0.148  0.112  0.359**  0.251’  0.540**  .0.013  0.099  0.263’  0.11  0.113  
+PWin  0.044  0.134  .0.123  0.035  .0.111  0.196  0.152  .0.112  0.311*  .0.073  
+Yearly CO2 concentration  
+CO2  0.347**  0.393**  .0.017  0.286*  0.010  0.206  0.164  .0.250’  0.030  .0.187  
+
+PSpr, PSum, PAut and PWin, mean temperature or total precipitation for spring, summer, autumn and winter of the previous year, respec-tively. CSpr, CSum and CAut, spring, summer and autumn of the current year, respectively. The correlations were boldfaced when significant 
+at 0.05 level. 
+’ P.<.0.1; *P.<.0.05; **P.<.0.01. 
+
+significant for each forest type, and the overall temporal trends were roughly similar between ring-width indices and model NPP estimates (Fig..3, Test 2). With only Test 2, it may be concluded that the modeled NPP series were acceptable for all the forest types (e.g. Rathgeber et.al. 2003; Wu et.al. 2014). However, our further analysis (Fig..4, Test 3).revealed that the responses (correlations) of modeled NPP to seasonal climates were largely similar to that of ring widths for only DNF and ENF, but not similar enough for the other three forests. This suggests that a significant correlation between modeled NPP and ring-width, however, cannot assure that process-based models have correctly identified the climatic variables limit-ing forest productivity. 
+Different response of forest productivity to climate change among forest.types 
+Forest productivity may respond to climate change differ-ently, depending on local environmental condition and forest type (Law et.al. 2004; Lara et.al. 2005; Su et.al. 2007; Chang et.al. 2009; Ouyang et.al. 2014). However, most of these find-ings were obtained based on either dendroclimatic analyses or biogeochemistry modeling alone, instead of based on the two approaches simultaneously. 
+In this analysis, we related both ring-width and modeled annual NPP to seasonal climate, and found that they showed similar responses to historical climate for some forest types. For instance, both ring-width and modeled NPP were positively correlated with current-year summer temperature instead of precipitation for DNF (Table.2). This is consistent with previous studies in northeast China showing that the growth of subal-pine DNF is limited by growing season temperature (Yu et.al. 2005; Chang et.al. 2009). In contrast, both ring-width and NPP series of ENF were negatively associated with current summer temperature. At the same time, both ring widths and modeled NPP of ENF were positively related to the previous year sum-mer temperature and autumn precipitation (P <.0.1). Thus, our results indicated that BIOME-BGC modeling could also capture the “lag effect” commonly observed in dendrochronology: the climate in a previous year can have strong effect on current-year forest growth (e.g. Fritts 1976; Zeng et.al. 2012). In this study, the tree rings of DNF and ENF were sampled from simi-lar altitudes (1500 and 1400 m, respectively) and thus were under similar climate condition. Consequently, the above-mentioned different climatic control between DNF and ENF should be mainly caused by difference in tree species instead of climate. Because these differences were revealed by both ring widths and modeled NPP, our results provide robust evidence that forest type is a major cause of difference responses to cli-mate change (Law et.al. 2004; Ouyang et.al. 2014). 
+For other forest types (BEF, BPF and MNB), dendroclimatic analyses also suggest that they differ in the climatic control of temporal productivity dynamics (Table.2). These differences 
+
+Figure.4: associations of correlations between modeled annual NPP and climatic/CO2 variables with the same environmental correlations for tree-ring chronologies. The X axes are correlations of ring-width indices with various climate variables for each forest type (data in Table.3), while Y axes are that of modeled annual NPP. Abbreviation: RWI, ring-width indices. 
+should be related to differences in both forest types and cli-mate, because these forests are distributed at different alti-tudes (Table.1). Even for a same forest type, the response of forest productivity to climate variability may change regu-larly along latitudinal and altitudinal gradients. This has been found in either dendroclimatic or biogeochemistry modeling studies (Rathgeber et.al. 2003; Lara et.al. 2005; Chang et.al. 2009; Sidor et.al. 2015), highlighting that local climate and site condition is another major factor driving different responses to climate change (Su et.al. 2007; Ouyang et.al. 2014). 
+Thus, different forest types may respond to historical cli-mate change in rather different ways, even within a single mountain in northeast China. Considering this, it is not easy to believe that a model can correctly predict the large-scale car-bon dynamics in the future, if the model has not been tested for its ability to identify the limiting climatic factors of pro-ductivity during historical changes. Our results suggest that a further integration of dendrochronology and process-based modeling will provide a tool to better understand the different response of forest productivity to climate change. 
+SUPPLEMENTARY MATERIAL 
+Supplementary material is available at Journal of Plant Ecology online. 
+ACKNOWLEDGEMENT 
+This work was supported by the National Natural Science Foundation of China (31370620 and 31321061) and the State Scholarship Fund of China (2011811457). 
+REFERENCES 
+Araujo MB, Guisan A (2006) Five (or so) challenges for species distri-bution modelling. J Biogeogr 33:1677–88. 
+Chang JF, Wang XP, Zhang XP, et.al. (2009) Alpine timberline dynam-ics in relation to climatic variability in the northern Daxing’an Mountains. J Mt Sci 27:703–11. 
+Ciais P, Tans PP, Trolier M, et.al. (1995) A large Northern Hemisphere terrestrial CO2 sink indicated by the 13C/12C ratio of atmospheric CO2. Science 269:1098–102. 
+Cienciala E, Tatarinov FA (2006) Application of BIOME-BGC model to managed forests 2..Comparison with long-term observa-tions of stand production for major tree species. For Ecol Manage 237:252–66. 
+Cook ER, Holmes RL (1986) Users Manual for Program ARSTAN. Tucson, USA: Laboratory of Tree-Ring Research, University of Arizona. 
+Cramer W, Bondeau A, Woodward FI, et.al. (2001) Global response of terrestrial ecosystem structure and function to CO2 and climate change: results from six dynamic global vegetation models. Glob Chang Biol 7:357–73. 
+Dixon RK, Brown S, Houghton RA, et.al. (1994) Carbon pools and flux of global forest ecosystems. Science 263:185–90. 
+Esper J, Cook ER, Schweingruber FH (2002) Low-frequency signals in long tree-ring chronologies for reconstructing past temperature variability. Science 295:2250–3. 
+Fan YW (2011) Leaf and stem functional traits of dominant woody species and their influencing factors in Northeast China’s forests. Master Thesis. Beijing Forestry University, Beijing. 
+Fang JY, Brown S, Tang YH, et.al. (2006) Overestimated biomass carbon pools of the northern mid- and high latitude forests. Clim Chang 74:355–68. 
+Fang JY, Chen AP, Peng CH, et.al. (2001) Changes in forest biomass car-bon storage in China between 1949 and 1998. Science 292:2320–2. 
+Fang JY, Wang XP, Liu YN, et.al. (2012) Multi-scale patterns of forest structure and species composition in relation to climate in north-east China. Ecography 35:1072–82. 
+Farquhar GD, von Caemmerer S (1982) Modelling of photosyn-thetic response to environmental conditions. In: Lange OL, Nobel PS, Osmond CB, Ziegler H (eds). Physical plant ecology II. Berlin: Springer-Verlag, 549–87. 
+Field CB, Behrenfeld MJ, Randerson JT, et.al. (1998) Primary produc-tion of the biosphere: integrating terrestrial and oceanic compo-nents. Science 281:237–40. 
+Fritts HC (1976) Tree Rings and Climate. New York: Academic Press. 
+Gao Q, Zhang X (1997) A simulation study of responses of the Northeast China Transect to elevated CO2 and climate change. Ecol Appl 7:470–83. 
+Girardin MP, Bernier PY, Raulier F, et.al. (2011) Testing for a CO2 fer-tilization effect on growth of Canadian boreal forests. J Geophys Res: Biogeosci 116: G01012. 
+Goodale CL, Apps MJ, Birdsey RA, et.al. (2002) Forest carbon sinks in the Northern Hemisphere. Ecol Appl 12:891–9. 
+Graumlich LJ, Brubaker LB, Grier CC (1989) Long-term trends in forest net primary productivity: Cascade Mountains, Washington. Ecology 70:405–10. 
+He HS, Hao Z, Mladenoff DJ, et.al. (2005) Simulating forest ecosystem response to climate warming incorporating spatial effects in north-eastern China. J Biogeogr 32:2043–56. 
+Holmes RL (1983) Computer-assisted quality control in tree-ring dat-ing and measurement. Tree-Ring Bulletin 43:69–78. 
+Houghton RA (2005) Aboveground forest biomass and the global car-bon balance. Glob Chang Biol 11:945–58. 
+Hunt ER Jr, Martin FC, Running SW (1991) Simulating the effects of climatic variation on stem carbon accumulation of a ponderosa pine stand: comparison with annual growth increment data. Tree Physiol 9:161–71. 
+IPCC (2007) Climate Change 2007: Impacts, Adaptation, and Vulnerability. New York, NY: Cambridge University Press. 
+Kang S, Kimball JS, Running SW (2006) Simulating effects of fire disturbance and climate change on boreal forest productivity and evapotranspiration. Sci Total Environ 362:85–102. 
+Keenan TF, Baker I, Barr A, et.al. (2012) Terrestrial biosphere model performance for inter-annual variability of land-atmosphere CO2 exchange. Glob Chang Biol 18:1971–87. 
+Kimball JS, Zhao M, McGuire AD, et.al. (2007) Recent climate-driven increases in vegetation productivity for the western Arctic: evi-dence of an acceleration of the northern terrestrial carbon cycle. Earth Interact 11:1–30. 
+Kong G, Luo T, Liu X, et.al. (2012) Annual ring widths are good predic-tors of changes in net primary productivity of alpine Rhododendron shrubs in the Sergyemla Mountains, southeast Tibet. Plant Ecol 213:1843–55. 
+Lara A, Villalba R, Wolodarsky-Franke A, et.al. (2005) Spatial and tempo-ral variation in Nothofagus pumilio growth at tree line along its latitu-dinal range (35°40′-55°S) in the Chilean Andes. J Biogeogr 32:879–93. 
+Law BE, Turner D, Campbell J, et.al. (2004) Disturbance and climate effects on carbon stocks and fluxes across Western Oregon USA. Glob Chang Biol 10:1429–44. 
+Li G, Harrison S, Prentice I, et.al. (2014) Simulation of tree-ring widths with a model for primary production, carbon allocation, and growth. Biogeosciences 11:6711–24. 
+Li WH, Deng MK, Li F (1981) Study on biomass and primary pro-duction of main ecosystems in Changbai Mountain. Res For Ecosyst 2:34–50. 
+Luo TX (1996) Patterns of net primary productivity for Chinese major forest types and their mathematical models. Ph.D. Thesis. Chinese Academy of Sciences, Beijing. 
+Malmstr.m CM, Thompson MV, Juday GP, et.al. (1997) Interannual variation in global-scale net primary production: testing model estimates. Global Biogeochem Cycles 11:367–92. 
+Mitchell S, Beven K, Freer J, et.al. (2011) Processes influencing model-data mismatch in drought-stressed, fire-disturbed eddy flux sites. J Geophys Res 116:G02008. 
+Ni J (2002) Effects of climate change on carbon storage in boreal for-ests of china: a local perspective. Clim Chang 55:61–75. 
+Norby RJ, Delucia EH, Gielen B, et.al. (2005) Forest response to ele-vated CO2 is conserved across a broad range of productivity. Proc Natl Acad Sci USA 102:18052–6. 
+Ouyang S, Wang X, Wu Y, et.al. (2014) Contrasting responses of net pri-mary productivity to inter-annual variability and changes of climate among three forest types in northern China. J Plant Ecol 7:309–20. 
+Peng CH, Zhou XL, Zhao SQ, et.al. (2009) Quantifying the response of forest carbon balance to future climate change in Northeastern China: model validation and prediction. Glob Planet Change 66:179–94. 
+Piao S, Fang J, Ciais P, et.al. (2009) The carbon balance of terrestrial ecosystems in China. Nature 458:1009–13. 
+Piao S, Fang J, Zhou L, et.al. (2005) Changes in vegetation net pri-mary productivity from 1982 to 1999 in China. Global Biogeochem Cycles 19:GB2027. 
+Pietsch SA, Hasenauer H (2002) Using mechanistic modeling within forest ecosystem restoration. For Ecol Manage 159:111–31. 
+Rathgeber C, Nicault A, Kaplan JO, et.al. (2003) Using a biogeochem-istry model in simulating forests productivity responses to climatic change and CO2 increase: example of Pinus halepensis in Provence (south-east France). Ecol Model 166:239–55. 
+Ren G, Guo Ju, Xu M, et.al. (2005) Climate changes of China’s main-land over the past half century. Acta Meteorol Sin 63:942–56. 
+Rolland C (1993) Tree-ring and climate relationships for Abies alba in the internal Alps. Tree-Ring Bulletin 53:1–11. 
+Running SW, Hunt ER (1993) Generalization of a forest ecosystem process model for other biomes, BIOME-BGC, and an application for global-scale models. In Ehleringer JR, Field CB (eds). Scaling Physiological Processes: Leaf to Globe. San Diego, CA: Academic Press, 141–58. 
+Schimel DS, House JI, Hibbard KA, et.al. (2001) Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems. Nature 414:169–72. 
+Schweingruber FH (1996) Tree Rings and Environment: Dendroecology. Switzerland: Paul Haupt AG Bern. 
+Shao GF, Bugmann H, Yan XD (2001) A comparative analysis of the structure and behavior of three gap models at sites in northeastern China. Clim Chang 51:389–413. 
+Sidor CG, Popa I, Vlad R, et.al. (2015) Different tree-ring responses of Norway spruce to air temperature across an altitudinal gradient in the Eastern Carpathians (Romania). Trees 29:985–97. 
+Su H, Sang W, Wang Y, et.al. (2007) Simulating Picea schrenkiana forest productivity under climatic changes and atmospheric CO2 increase in Tianshan Mountains, Xinjiang Autonomous Region, China. For Ecol Manage 246:273–84. 
+Tan K, Piao S, Peng C, et.al. (2007) Satellite-based estimation of bio-mass carbon stocks for northeast China’s forests between 1982 and 1999. For Ecol Manage 240:114–21. 
+Thornton P, Law B, Gholz HL, et.al. (2002) Modeling and measur-ing the effects of disturbance history and climate on carbon and water budgets in evergreen needleleaf forests. Agr Forest Meteorol 113:185–222. 
+Thornton PE, Hasenauer H, White MA (2000) Simultaneous esti-mation of daily solar radiation and humidity from observed tem-perature and precipitation: an application over complex terrain in Austria. Agr Forest Meteorol 104:255–71. 
+Thornton PE, Running SW (1999) An improved algorithm for esti-mating incident daily solar radiation from measurements of temperature, humidity, and precipitation. Agr Forest Meteorol 93:211–28. 
+Turner DP, Guzy M, Lefsky MA, et.al. (2004) Monitoring forest car-bon sequestration with remote sensing and carbon cycle modeling. Environ Manage 33:457–66. 
+Ueyama M, Ichii K, Hirata R, et.al. (2010) Simulating carbon and water cycles of larch forests in East Asia by the BIOME-BGC model with AsiaFlux data. Biogeosciences 7:959–77. 
+Wang T, Zhang QB, Ma KP (2006) Treeline dynamics in relation to cli-matic variability in the central Tianshan Mountains, northwestern China. Glob Ecol Biogeogr 15:406–15. 
+Wang XP (2006) Distribution, structure, diversity and productivity of forests in Northeast China and their climatic control. Ph.D. Thesis. Peking University, Beijing. 
+Wang XP, Fang JY, Sanders NJ, et.al. (2009) Relative importance of climate vs. local factors in shaping the regional patterns of forest plant richness across Northeast China. Ecography 32:133–42. 
+Wang XP, Fang JY, Zhu B (2008) Forest biomass and root-shoot allo-cation in northeast China. For Ecol Manage 255:4007–20. 
+Wang Z, Xu Z, Li X, et.al. (1980) The main forest types and their features of community structure in Northern slope of Changbai Mountain (I). Research of Forest Ecosystem 1:25–42. 
+White MA, Thornton PE, Running SW, et.al. (2000) Parameterization and sensitivity analysis of the BIOME-BGC terrestrial ecosystem model: net primary production controls. Earth Interact 4:1–85. 
+Wigley T, Briffa K, Jones P (1984) On the average value of correlated time series, with applications in dendroclimatology and hydrome-teorology. J Clim Appl Meteorol 23:201–13. 
+Wu YL, Wang XP, Li QY, et.al. (2014) Response of broad-leaved Korean pine forest productivity of Mt. Changbai to climate change: an analysis based on BIOME-BGC modeling. Acta Sci Nat Univ Pekin 50:577–86. 
+Yu D, Wang S, Tang L, et.al. (2005) Relationship between tree-ring chronology of Larix olgensis in Changbai Mountains and the climate change. Chin J Appl Ecol 16:14–20. 
+Zeng LB, Wang XP, Chang JF, et.al. (2012) Alpine timberline ecotone tree growth in relation to climatic variability for Picea crassifolia for-ests in the middle Qilian Mountains, northwestern China. J Beijing Forest Univ 34:50–6. 
+Zhang F, Chi Z, Li X (1980) The analysis and primary evaluation on the climate of Changbai mountain area. Research of Forest Ecosystem 1:193–214. 
+Zhu B, Wang X, Fang J, et.al. (2010) Altitudinal changes in carbon storage of temperate forests on Mt Changbai, Northeast China. J Plant Res 123:439–52. 
+1 Appendix 1 Eco-physiological parameters of each forest type, used for BIOME-BGC 2 simulation in this study. Abbreviations: BEF, Betula ermanii forest; DNF, deciduous 3 needle-leaved forest; ENF, evergreen needle-leaved forest; BPF, Betula & Populus forest; 4 MBN-PK, needle-leaf species (Pinus koraiensis) in mixed needle- & broad-leaved forest 5 (MBN); MBN-DB, deciduous broadleaf species in MBN. Superscripts of the parameter 6 values: #, the parameters were measured by us; *, default values in BIOME-BGC 4.2; other 7 parameters were obtained from literatures listed below. 8 
+Parameter  Unit  BEF  DNF  ENF  BPF  MBN-PK  MBN-DB  
+Transfer growth period  %  0.2*  0.2*  0.3*  0.2*  0.3*  0.2*  
+Litterfall period  %  0.2*  0.2*  0.3*  0.2*  0.3*  0.2*  
+Annual turnover rates  
+Leaves and fine roots  year–1  1*  0.79[1, 2]  0.25*  1*  0.29*  0.74[3]  
+Live wood  year–1  0.7*  0.7*  0.7*  0.7*  0.7*  0.7*  
+Whole plant mortality  year–1  0.039[4]  0.023[4]  0.023[4]  0.039[4]  0.009[4]  0.0195[4]  
+Fire mortality  year–1  0.0022[5]  0.0022[5]  0.0022[5]  0.0022[5]  0.0022[5]  0.0022[5]  
+Allocation ratios  
+Fine root C/leaf C  DIM  1*  0.89[6]  1.12[7]  1[8]  1.2[9]  0.9[2, 9]  
+Stem C/leaf C  DIM  1.71[10]  1.9[6, 10]  2.2[7]  2.4[8, 11]  2.3[9,11]  1.4[2,9]  
+Live wood C/total wood C  DIM  0.1*  0.92[6]  0.071[7]  0.9[8]  0.379*  0.1*  
+Coarse root C/stem C  DIM  0.083[10]  0.29[6]  0.29[7]  0.23[8]  0.28[9]  0.54[2,9]  
+Growth C/storage C  DIM  0.5*  0.5*  0.5*  0.5*  0.5*  0.5*  
+C/N ratios  
+C/N of leaves  DIM  24.5#  31.7#  26#  24.6#  23#  20.1#  
+C/N of falling leaf litter  DIM  46.3[12]  45.5[13]  118[12]  46[14, 15]  133[12, 16, 17]  40.2[15]  
+C/N of fine roots  DIM  35[18]  50[19-21]  32[18]  42*  39.3[18]  39.3[18]  
+C/N of live wood  DIM  93.3#  138.2#  114.6#  93.3#  97.43#  97.06#  
+C/N of dead wood  DIM  402[19]  402[19]  201[19]  226[19]  201[19]  266[19]  
+Leaf litter proportions  
+Labile proportion  DIM  0.39*  0.4[22]  0.31[23]  40[24]  0.31[24]  0.36[24]  
+Cellulose proportion  DIM  0.44*  0.35[22]  0.45[23]  40[24]  0.45[24]  0.47[24]  
+Lignin proportion  DIM  0.17*  0.25[22]  0.24[23]  20[24]  0.24[24]  0.17[24]  
+
+Fine root proportions 
+
+Labile proportion DIM 0.3* 0.3* 0.287* 0.29* 0.27* 0. 3* Cellulose proportion DIM 0.45* 0.45* 0.295* 0.43* 0.43* 0.45* Lignin proportion DIM 0.25* 0.25* 0.418* 0.28* 0.3* 0.25* 
+Dead wood proportions 
+
+0.7[25, 26] 
+Cellulose proportion DIM 0.76* 0.76* 0.76* 0.71* 0.76* 0.3[25, 26] 
+Lignin proportion DIM 0.24* 0.24* 0.24* 0.29* 0.24* 
+Canopy parameters 
+
+Water interception coefficient LAI–1d-1 0.041* 0.044[27-30] 0.045[31] 0.0518[27,28,30] 0.045[27, 30,32] 0.033[27, 30,33] 
+Light extinction coefficient DIM 0.7* 0.46[34] 0.51[31] 0.7* 0.5* 0.5* 9.7[35] 
+Mean specific leaf area m2kg-1c 26# 18# 26# 12# 28.5# Ratio of sunlit to shaded LAI DIM 2* 2. 6* 2* 2* 2* 2* Ratio of all sided to projected LAI DIM 2* 2* 2.6* 2* 2.6* 2* Fraction of leaf N in Rubisco DIM 0.08* 0.08* 0.04* 0.08* 0.04* 0.08* 
+Conductance parameters 
+
+Maximum stomatal conductance m s-1 0.005* 0.005* 0.006[31] 0.005* 0.006[31] 0.005* 
+Cuticular conductance m s-1 0.00001* 0.00001* 0.00006[31] 0.00001* 0.0006[31] 0.00001* 
+Boundary layer conductance m s-1 0.01* 0.08* 0.09[31] 0.01* 0.09[31] 0.01* 
+Boundaries for conduction reduction 
+
+Leaf water potential: start of reduction Pa -0.34[31] -0.7[36] -0.65[31] -0.6[31] -0.65[31] -0.6[31] 
+Leaf water potential: complete reduction Pa -2.2[31] -2.6[36] -2.5[31] -2.3[31] -2.5[31] -2.3[31] 
+VPD: start of reduction Pa 1100[31] 800[37] 610[31] 930[31] 610[31] 930[31] 
+VPD: complete reduction Pa 3600[31] 3200[37] 3100[31] 4100[31] 3100[31] 4100[31] 
+1 2 References 3 [1] SHI, J.W., WANG, Z.Q., YU, S.Q., QUAN, X.K., JIA, S.X., MEI, L., 2007. Estimating 4 fine root production, mortality and turnover with Minirhizotrons in Larix gmelinii and 5 Fraxinus mandshurica plantations. Acta Ecologica Sinica 31, 333-342. 6 [2] MEI, L., 2006. Fine root turnover and carbon allocation in manchurian ash and Davurian 7 larch plantations. Doctor degree thesis. Northeast Forestry University, Haerbing. 8 [3] YANG, L.Y., LI, W.H., 2005. Fine root distribution and turnover in a broad-leaved and 9 Korean pine climax forest of the Changbai Mountain in China. Journal of Beijing 
+10 Forestry University 27, 1-5. 
+
+
+11 [4] SANG, W.G., LI, J.W., 1998. Dynamics modeling of Korean pine forest in southern lesser 
+12 Xingan mountains of china. Acta Ecologica Sinica 18, 38-47. 
+[5] YAN, X.D., ZHAO, S.D., YU, Z.L., 2000. Modeling growth and succession of northeastern china forests and its applications in global change studies. Acta Phytoecologica Sinica 24, 1-8. 
+[6] YIN, S.D., 2004. Compare Study on Nutrient Eeology of pinus koraiensis and Larix olgensis Plantation Eeosystems. Doctor degree thesis. Northeast Forestry University, Haerbing. 
+[7] CHEN, B.H., CHEN, C.Y., 1980. A preliminary study on the biomass and production of Picea koraiensis nakai forest. Scientia Silvae Sinicae 04, 269-278. 
+[8] ZHU, X.W., XIAO, Y., CAI, W.C., 1988. A preliminary study on the biomass of aspen natural secondary forest. Science and Technology of Qinghai Agriculture and Forestry 01, 30-34. 
+[9] YAO, G.Q., CHI, G.Q., DONG, Z.Q., GUO, D.W., 1986. Studies on productiveness of three types of artificial stand forest of korean pine in the mountainous areas of Liaoning Province. Journal of Northeast Forestry University 04, 42-47. 
+[10]DENG, M.K., SHI, P.L., YANG, Z.L., 2006. Biomass allocation and Net Productivities at treeline ecotone on the Changbai Mountains, Northeast China. Journal of Natural Resources 06, 942-948. 
+[11]LI, F., 1984. A research of the bioproductivity of korean pine broad leaf forest and its secondary forest of poplar-birch. Chinese Journal of Ecology 02, 8-12. 
+[12]LI, K.X., 2006. Nitrogen deposition affects carbon and nitrogen turnover on the early stage of forest litter decomposition. Master degree thesis. Northeast Forestry University, Haerbing. 
+[13]ZHOU, B., 2007. Study on litterfall dynamics of Pinus koraiensis and Larix gmelinii Plantationsin Maoershan area. Master degree thesis. Northeast Forestry University, Haerbing. 
+[14]LI, X.F., ZHANG, Y., NIU, L.J., HAN, S.J., 2007. Litter decomposition processes in the pure birch (Betula platyphlla) forest and the birch and poplar (Populus davidiana) mixed forest. Acta Ecologica Sinica 05, 1782-1790. 
+[15]LI, X.F., HAN, S.J., HU, Y.L., ZHAO, Y.T., 2008. Decomposition of litter organic matter and its relations to C, N and P release in secondary conifer and broadleaf mixed forest in 
+Changbai Mountains. China Journal of Applied Ecology 02, 245-251. 
+[16]CHEN, J.L., JIN, G.Z., ZHAO, F.X., 2010. Litter decomposition and nutrient dynamics at different succession stages of typical mixed broadleaved-Korean pine forest in Xiaoxing’an Mountains, China. China Journal of Applied Ecology 09, 2209-2216. 
+[17]DENG, X.W., ZHANG, Y., HAN, S.J., LI, X.F., LI, K.X., LI, X.F., 2007. Effects of nitrogen addition on the early stage decomposition of Korean pine litter in the Changbaishan Mountains, northeastern China. Journal of Beijing Forestry University 06, 16-22. 
+[18]YANG, L.Y., LI, W.H., 2003. The underground root biomass and C storage in different forest ecosystems of Changbai Mountains in China. Journal of Natural Resources 02, 204-209. 
+[19]ZHANG, L.M., WANG, C.K., 2010. Carbon and nitrogen release during decomposition of coarse woody debris for eleven temperate tree species in the eastern mountain region of northeast China. Chinese Journal of Plant Ecology 34, 368-374. 
+[20]NA, S.H., HAO, T.G., YAN, X.F., 2007. Effects of Nitrogen Supply on Accumulation and Allocation of Carbon and Nitrogen in Root System of Larch Seedlings. Journal of Northeast Forestry University 11, 17-22. 
+[21]ZHANG, X.J., WU, C., MEI, L., HAN, Y.Z., WANG, Z.Q., 2006. Root decomposition and nutrient release of Fraxinus manshurica and Larix gmelinii plantations. China Journal of Applied Ecology 08,1370-1376. 
+[22]CHANG, Y.J., 2009. Litter Decomposition and Its Responses to simulated N Deposition for Coniferous Forests of Oinling Western Mountains. Master degree thesis. Lanzhou University, Lanshou. 
+[23]DENG, R.J., YANG, W.Q., FENG, R.F., HU, J.L., QIN, J.L., XIONG, X.J., Mass loss and element release of litter in the subalpine forest over one freeze-thaw season. Acta Ecologica Sinica 10, 5730-5735. 
+[24]GENG, X.Y., 1993. Studies on leaves decomposition of some species in Changbai mountain. Acta Phytoecologica et Geobotanica Sinica 17, 90-96. 
+[25]GUO, M.H., CHEN, G.C., WANG, J.M., 2002. The Effects of Planting Density on Structural Wood Quality of Larix olgensis Plantation. Journal of Northeast Forestry University 04, 8-10. 
+[26]LU, W.D., 1990. A primary study on changes of wood chemical constitutions of Larch after drying. China Wood Industry 01, 14-18. 
+[27]ZHOU, Y.Y., TANG, S.H., ZHU, Q.J., LI, J.T., SUN, R., LIU, S.H., 2003. Measurement of LAI in Changbai mountains nature reserve and its result. Resources Science 06, 38-42. 
+[28]CAI, T.J., LIU, Q., WANG, L., YANG, W.H., 1996. The balance of the soil water in dahurian larch plantation. Journal of Northeast Forestry University 01,62-67. 
+[29]WEI, X., LIU, S., ZHOU, G., WANG, C., 2005. Hydrological processes in major types of Chinese forest. Hydrological processes 19, 63-75. 
+[30]ZHANG, H.Y., 2009. Simulation of Carbon Dynamics in a Natural Secondary Forest in Northeast China Using IBIS. Master degree thesis. Northeast Forestry University, Haerbing. 
+[31]WHITE, M.A., THORNTON, P.E., RUNNING, S.W., NEMANI, R.R., 2000. Parameterization and Sensitivity Analysis of the BIOME-BGC Terrestrial Ecosystem Model: Net Primary Production Controls. Earth Interactions 04, 1-85. 
+[32]DANG, H.Z., DONG, T.S., ZHAO, Y.Z., 2007. Canopy Interception of Pinus koraiensis. 
+Journal of Northeast Forestry University 10, 4-6. 
+[33]CAI, T.J., ZHU, D.G., SHENG, H.C., 2006. Rainfall redistribution in virgin Pinus koraiensis forest and secondary Betual platyphylla forest in Northeast China. Science of Soil and Water Conservation 4, 61-65. 
+[34]LIU, Z.G., MA, Q.Y., PAN, X.L., XIE, Z.M., 1997. Radiation characteristics of a Larix principis -rupprechtii plantation during the course of leaf growth. Acta Ecologica Sinica 17, 519-524. 
+[35]LI, W.H., LUO, T.X., 1997. Productivity patterns and mathematical Models of spruce-fir forests in china. Acta Ecologica Sinica 17, 511-518. 
+[36]PIETSCH, S.A., HASENAUER, H., THORNTON, P.E., 2005. BGC-model parameters for tree species growing in central European forests. Forest Ecology and Management 
+211, 264-295. 
+
+2 [37]WIESER, G., 1999. Evaluation of the impact of ozone on conifers in the Alps: a case 
+3 study on spruce, pine and larch in the Austrian Alps. PHYTON-HORN-39, 241-252. 
+
+
+
+

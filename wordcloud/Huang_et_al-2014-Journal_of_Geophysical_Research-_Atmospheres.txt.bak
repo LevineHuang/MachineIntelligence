@@ -1,0 +1,520 @@
+PUBLICATIONS 
+
+
+Journal 
+of 
+Geophysical 
+Research: 
+Atmospheres 
+
+RESEARCH ARTICLE Temporal variations of atmospheric water vapor 
+10.1002/2014JD021891 
+
+δD and δ18O above an arid arti.cial oasis 
+Key Points: 
+cropland in the Heihe River Basin 
+. 	In situ measurement of vapor and ET isotope ratios 
+Lvjun Huang1,2 and Xuefa Wen1 
+. δD, δ18O weakly rely on vapor mixing ratio, d highly rely on RH and T 
+181Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources 
+. ET enrich δD and δO, entrainment 
+Research, Chinese Academy of Sciences, Beijing, China, 2College of Natural Resources and Environment, University of 
+exert opposite effect 
+Chinese Academy of Sciences, Beijing, China 
+Correspondence to: 
+X. Wen, wenxf@igsnrr.ac.cn 
+Citation: 
+Huang, L., and X. Wen (2014), Temporal variations of atmospheric water vapor δD and δ18O above an arid arti.cial oasis cropland in the Heihe River Basin, 
+J. Geophys. Res. Atmos., 119, 11,456–11,476, doi:10.1002/2014JD021891. 
+Received 12 APR 2014 Accepted 9 SEP 2014 Accepted article online 12 SEP 2014 Published online 6 OCT 2014 
+Abstract The high temporal resolution measurements of δD, δ18O, and deuterium excess (d )of atmospheric water vapor provide an improved understanding of atmospheric and ecohydrological processes at ecosystem to global scales. In this study, δD, δ18O, and d of water vapor and their .ux ratios were continuously measured from May to September 2012 using an in situ technique above an arid arti.cial oasis in the Heihe River Basin, which has a typical continental arid climate. The monthly δDand δ18O increased slowly and then decreased, whereas the monthly d showed a steady decrease. δD, δ18O, and d exhibited a marked diurnal cycle, indicating the in.uence of the entrainment, local evapotranspiration (ET), and dewfall. The departures of δD, δ18O, and d from equilibrium prediction were signi.cantly correlated with rain amount, relative humidity (RH), and air temperature (T). The “amount effect” was observed during one precipitation event. δDand δ18O were log linear dependent on water vapor mixing ratio with respective R2 of 17% and 14%, whereas d was signi.cantly correlated with local RH and T, suggesting the less in.uence of air mass advection and more important contribution of the local source of moisture to atmospheric water vapor. Throughout the experiment, the local ET acted to increase δDand δ18O, with iso.uxes of 102.5 and 23.50 mmol m-2s-1‰, respectively. However, the dominated effect of entrainment still decreased δDand δ18O by 10.1 and 2.24‰, respectively. Both of the local ET and entrainment exerted a positive forcing on the diurnal variability in d. 
+1. Introduction 
+The δD, δ18O, and deuterium excess (d) of atmospheric water vapor contain rich information concerning the water movement and phase changes between the atmosphere and the Earth’s surface and should provide new insights into the atmospheric and ecohydrological processes from ecosystem to global scales [Gat, 1996; Jouzel et al., 2000; Yakir and Sternberg, 2000; Wen et al., 2010]. The high temporal resolution and in situ measurements of δD, δ18O, and d of atmospheric water vapor can reveal the subtle changes in water vapor condensation, evaporation, and subsequent transport. Such observation offers unique opportunities to improve the understanding of atmospheric and ecohydrological processes, such as vertical atmospheric mixing, Rayleigh distillation, evapotranspiration partitioning, and water cycling [Dansgaard, 1953; Lee et al., 2006; Yamanaka et al., 2007; Vallet-Coulomb et al., 2008; Berkelhammeretal., 2013]. The water vapor d is thought to indicate the environmental conditions during nonequilibrium processes, which can be used to identify the source regions of atmospheric moisture [Merlivat and Jouzel, 1979; Araguas-Araguas et al., 2000; Uemura et al., 2008; Welp et al., 2012]. Joint measurements of δD, δ18O, and d could provide more information that would otherwise be dif.cult to obtain using a single tracer [Dansgaard, 1953; Merlivat and Jouzel, 1979; Wen et al., 2008]. Such measurements are complementary resources to calibrate atmospheric models of the water cycle at regional to global scales [Hoffmann and Heimann, 1997; Vuille et al., 2005; Angert et al., 2008] and to constrain the inherent uncertainties associated with satellite-based isotope measurements [Worden et al., 2011; Noone, 2012]. 
+Isotope ratio infrared spectroscopy has recently allowed high-frequency in situ measurements of atmospheric water vapor isotopic ratios [Lee et al., 2005; Wen et al., 2008, 2012a; Wang et al., 2009; Grif.s,2013],providing an attractive alternative to the traditional isotope ratio mass spectrometry [Kerstel and Gianfrani,2008; Helliker and Noone, 2010]. To our best knowledge, in situ and continuous observations of δD, δ18O, and d of atmospheric water vapor have been performed at approximately 14 sites, with few in inland arid regions. Seven of those sites were in urban or sparse vegetation settings, namely, New Haven, USA, with a humid continental climate 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 	11,456 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+[Lee et al., 2006]; Beijing, China, with a rather dry, monsoon-in.uenced humid continental climate [Wen et al., 2010; Zhang et al., 2011]; Sapporo, Japan, with a humid continental climate characterized by four distinct seasons [Sunmonu et al., 2012]; San Diego, USA, with a Mediterranean climate characterized by warm dry summers and mild winters [Farlin et al., 2013]; Hawaii, USA, with a tropical marine climate [Noone et al., 2011; Hurley et al., 2012]; the Greenland Ice Sheet, with an ice cap climate [Steen-Larsen et al., 2013]; and the Chajnantor Plateau in Chile, with a subtropical desert climate [Galewsky et al., 2011]. The other seven sites were in vegetation-covered settings, namely, the Great Mountain Forest in the USA, with a humid continental climate [Lee et al., 2006, 2007]; the Wind River Experimental Forest in the USA, with a maritime Paci.c climate characterized by dry summer and wet winter periods [Rambo, 2013]; the Manitou Experimental Forest in the USA, with a semiarid climate [Berkelhammer et al., 2013]; the mixed evergreen forest located in the Angelo Coast Range Reserve in the USA, with a Mediterranean climate characterized by warm dry summers and cool wet winters [Simonin et al., 2014]; Rosemount soybean site in the USA, with a humid continental climate [Welp et al., 2008; Grif.set al., 2010, 2011]; Luancheng winter wheat and summer maize rotation system in China, with a continental, monsoon-in.uenced, semiarid climate [Zhang et al., 2011; Wen et al., 2012b; Xiao et al., 2012]; and Dunlun grassland in China, with a dry, monsoon-in.uenced, humid continental climate [Wen et al., 2012b; Hu et al., 2014]. With respect to the observed tracer, single δD was focused on in Hawaii and in Sapporo, and single δ18O was investigated in New Haven, the Great Mountain Forest and Rosemount. In contrast, joint observations of δD, δ18O, and d were performed at the other nine sites. Moreover, the observational studies in Rosemount, the Great Mountain Forest, Duolun, and Luancheng also considered the δD and/or δ18O of the evapotranspiration .ux. A metaanalysis of water vapor δD, δ18O, and d at six sites in America and China have indicated that the factors contributing to various δD, δ18O, and d of atmospheric water vapor may be geographically different [Welp et al., 2012]. 
+Previous research has suggested that large variations of atmospheric water vapor δD, δ18O, and d occur at daily to seasonal time scales, irrespective of whether the surface is covered by vegetation [Lee et al., 2006; Wen et al., 2010; Welp et al., 2012; Zhang et al., 2011; Sunmonu et al., 2012; Berkelhammer et al., 2013; Farlin et al., 2013]. During rainy periods, the water vapor δD, δ18O, and d are primarily in.uenced by isotopic equilibrium fractionation. Lee and Fung [2008] proposed a numerical model to describe the stable isotope exchange between raindrops and vapor and investigated the in.uence of raindrop size, rain rate, relative humidity, and temperature. The water vapor may reach equilibrium with the falling rainwater as the humid approaches to saturation [Stewart, 1975]. Isotopic equilibrium relations between atmospheric water vapor and precipitation have been found at event-based and monthly scales [Lee et al., 2006; Wen et al., 2010; Zhang et al., 2011]. During precipitation events, Lee et al. [2006] found that the departure from the equilibrium state was not signi.cantly correlated with the temperature, precipitation amount, or duration. However, Wen et al. [2010] and Zhang et al. [2011] suggested that the residual from the 1:1 line was signi.cantly correlated with the relative humidity (RH), con.rming the effect of kinetic fractionation. At the time scale within a single precipitation event, researchers have observed large variations in δD, δ18O, and d of rainwater and related these variations to the physical conditions of rainfall generation, relative movement of air masses, subcloud evaporation, and rainfall intensity [Celle-Jeanton et al., 2004; Munksgaard et al., 2012; Guan et al., 2013]. Risi et al. [2010] investigated the evolution of precipitation isotopic composition in different phases of the squall lines and suggested that the main controlling factors of the isotopic evolution are squall line dynamics and rain reevaporation through a numerical model. However, the intraevent variations in δD, δ18O, and d of atmospheric water vapor as the precipitation progresses have not been well investigated. 
+During nonrainy periods, climate type is considered as the main factor that dominates the temporal variability of atmospheric water vapor δD, δ18O, and d [Wen et al., 2010; Galewsky et al., 2011; Noone et al., 2011]. For instance, the water vapor δDand δ18O in Beijing show much less variability in the summer monsoon season but show a log linear dependence on the vapor mixing ratio (w) outside the monsoon season [Wen et al., 2010]. Sunmonu et al.[2012]observed that the δD of the near-surface water vapor in Sapporo presents a marked seasonal cycle with higher values in warm season and lower values in cold season. Galewsky et al. [2011] reported the lowest water vapor δD (ranging from -540 to -148‰)and δ18O (ranging from -68 to -20‰)on the Chajnantor Plateau, which is one of the driest sites in the world, with w ranging from 212 to 2500 ppm. A robust log linear correlation between w and atmospheric water vapor isotope ratios was found by Williams et al. [2004], Lee et al. [2006], Wen et al. [2010], and Zhang et al. [2011], suggesting the dominating effect of Rayleigh distillation accompanying air mass advection. However, a poor correlation was also found by 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,457 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+Figure 1. The spatial pattern of average Atmospheric Infrared Sounder (AIRS) water vapor mass mixing ratios (squares) and average AIRS relative humidity (contours) of May–September 2012 at 500 hPa. The location of Zhangye is given by star. Wind rose (inset) shows winds measured at Zhangye from 27 May to 21 September 2012. 
+Lawrence et al. [2004], implying that other processes also play important roles in the observed variability of the water vapor δD and δ18O. For those vegetation-covered sites, transpiration is another important contributor to the temporal variability of atmospheric water vapor isotopic ratios [Lee et al., 2007; Welp et al., 2008; Zhang et al., 2011; Welp et al., 2012]. For example, above a temperate mixed forest with a relative high canopy density (leaf area index (LAI) = 4.1 m2 m -2), Lee et al. [2007] found that the water vapor δ18O above the forest canopy was primarily controlled by transpiration. Several studies suggested that the interaction between the local evapotranspiration (ET) and boundary layer entrainment explains large diurnal variability of the water vapor δD, δ18O, and d. The local ET, particularly transpiration, acts to enrich the surface water vapor in heavy isotopes, whereas the entrainment acted to deplete them [Lai et al., 2006; Lee et al., 2007; Welp et al., 2008, 2012; Wen et al., 2010; Zhang et al., 2011; Steen-Larsen et al., 2013]. The condensation and evaporation of dew also exert effects on the diurnal variability of the water vapor δD, δ18O, and d [Welp et al., 2008; Zhang et al., 2011; Wen et al., 2012b]. Moreover, Lee et al. [2006] found that the land-sea breeze circulation plays a dominant role in the diurnal cycle of vapor δ18O in the coastal site at New Haven. 
+The Heihe River Basin is in the inland region of northwest China, with a typical continental arid climate. It belongs to the transition zone between the westerlies and summer monsoon and is one of the sensitive regions to climate change [Guo et al., 2014]. The irrigated agriculture and Oasis in the middle and lower reaches rely on the precipitation and snowmelt from the Qilian Mountains, where several major inland rivers originate. Therefore, research on the atmosphere processes and water cycle in this region is of great importance. In this study, based on a wavelength-scanned cavity ring-down spectroscopy (WS-CRDS) analyzer, we performed in situ measurements of the δD, δ18O, and d of atmospheric water vapor and their .ux ratios from May to September 2012 in the Heihe River Basin (Figure 1). The objectives of this study were the following: (1) to quantify the temporal dynamics of atmospheric water vapor isotopic ratios above this arid arti.cial oasis where rarely relative observation performed in this setting, (2) to examine isotopic equilibrium between atmospheric water vapor isotopic ratios and precipitation during the precipitation events and rain processes when easily subjected to reevaporation in arid area, (3) to investigate the relationships between atmospheric water vapor isotopic ratios and local environmental factors in inland arid region where ocean-derived water vapor exerts less in.uence, and (4) to analyze the in.uence of local ET and entrainment on the atmospheric water vapor isotopic ratios. 
+2. Materials and Methods 
+2.1. Site Description 
+The experiment was conducted above an arid arti.cial oasis cropland in the middle reaches of the Heihe River Basin (38°51′N, 100°22′E, 1550 m above sea level) in Zhangye of the Gansu Province in northwest China from 27 May to 22 September 2012. The arti.cial oasis is more than 1300 km2. The research site, as the 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,458 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+superstation of the Heihe Watershed Allied Telemetry Experimental Research [Li et al., 2013], was located at the center of the key experimental area, a 5.5 km × 5.5 km cropland in the northeast of the oasis. The fetch of our collection station was about 200 m, thus the desert oasis edge effects could be ignored. The Heihe River Basin is in a continental temperate zone with typical arid climate, surrounded by mountains on the southwest and northeast. The water vapor transport of this region is primary from the westerlies and the southwest monsoon. In summer, it is also in.uenced by the warm wet air masses from the Indian Ocean after overcoming the Tibetan Plateau to some extent [Wang et al., 2005; Li et al., 2009]. During the period of the experiment, northwest winds prevails at the research site, and the large-scale relative humidity and water vapor mixing ratio at 500 hPa showed a transition, ranging from 50 to 60% and from 1.7 to 3.3 g/kg, respectively (Figure 1). The regional temperature for 1969–2005 showed an increase of 1.24°C, which exceeded the average level of China. The increasing temperature was considered as a re.ection of large-scale climate change in the northwest China [Li and Shi, 2007]. The spatial pattern of precipitation for 1955–1995 revealed an increasing trend from the northwest to the southeast of Heihe River Basin [Ding et al., 1999], a with proportion of at least 31.06% contributed by the continental cycling water [Zhang and Wu, 2008]. The mean air temperature and annual precipitation are 7.4°C and 128.7 mm, respectively, with a large portion occurred in summer (July–August), according to the meteorological records from 1961 and 2010. The major crop in this region is maize. The cropping pattern is one crop a year. Maize was sown on 20 April and harvested on 22 September in 2002. Rainfall and irrigation were the main water sources. Film mulching, with a cover rate of about 60%, was used for water conservation. The cropland was irrigated 4 times during the growing season, including 6 June, 2 July, 28 July, and 25 August, with approximately 140 mm of water each time. The maximum leaf area index (LAI) was 4.4 m2 m -2 and the maximum canopy height was 2.1 m. The LAI steeply dropped from 2.9 to 0.7 m2 m -2 because of frosts that occurred on 13 and 14 September (day of year (DOY) 257 and 258). The LAI was measured at sunset every 7–10 days and linear interpolation was carried out for LAI from the discrete measurements. 
+2.2. In Situ Measurement of Water Vapor and Evapotranspiration Isotope Ratios 
+The in situ system for measuring the δD, δ18O, and d of atmospheric water vapor and their .ux ratios consisted of a water vapor isotope analyzer (Model L1102-i, Picarro Inc), an online calibration system and an ambient air sampling system. The online calibration system was con.gured with a three-way solenoid valve, a liquid vaporization module (Picarro Inc), and a CTC Analytics Prep and Load (PAL) liquid autosampler (LEAP Technologies). The three-way solenoid valve was connected with one common port, one common air sample intake, and one calibration gas intake. The switch of the valve was controlled by an electric signal from Model L1102-i. Three calibration gas streams (S1–S3) with same isotopic ratios and three mixing ratio spans were generated by the liquid vaporization module which instantaneously vaporized the volume-controlled standard water, injected by the preset CTC Analytics PAL liquid autosampler. The isotopic compositions of the standard water were measured by a liquid water isotope analyzer (Model DLT-100, Los Gatos Research Inc.). The switching sequence was S1, air, S2, air, S3, air, with 25 min spent on each calibration gas and with 3 h spent on ambient air. Linear interpolation was used to simultaneously achieve the S1, S2, and S3, and two of three were selected to span the ambient water vapor concentration for calibrating the ambient measurements. More details concerning the calibration procedure and the quality control of data are available in the literature [Wen et al., 2008, 2012a]. The ambient air sampling system was connected to a common air sample intake and consisted of an eight-way solenoid valve of Valco 1/8″ Dead-End Selectors (Model EMT2SD8MWE, Valco Instruments CO. Inc.), a bypass pump and a sampling pump. Two intakes of the eight-way solenoid valve were chosen for the measurement of the ambient air sample, with 2 min spent on each intake. The switch between two intakes was also controlled by an electric signal from Model L1102-i. During our experiment, the heights of the two intakes were 0.5 and 1.5 m higher than the canopy and increased over the season from 0.6/1.6 m at the beginning to 2.55/3.55 m by the end of the maize season to adjust for the canopy growth. All of the sampling Te.on tubes were heated by a heating cable (Self-Regulating Heating Cable/Low Temperature, OMEGA Engineering inc.) and wrapped with heat insulating materials to minimize the possibility of fractionation within the delivery tubes [Sturm and Knohl, 2010]. The .ow rate of the bypass pump was 1.5 L min-1 stand temperature and pressure (STP). The analyzer drew sampling air and calibration air at a .ow rate of 0.03 L min-1 STP and recorded the signals at approximately 0.2 Hz. The data reported in this study were block averaged to hourly intervals. The 1 h precision was ~0.4‰ for δDand ~0.2‰ for δ18O[Wen et al., 2012a]. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,459 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+The .ux isotope ratio (RET) of ecosystem evapotranspiration (ET) was determined by the .ux gradient approach [Yakir and Wang,1996; Wang and Yakir, 2000] using the vertical gradients of water isotopologues at the two sampling heights above the canopy [Lee et al., 2007; Welp et al., 2008]. RET was calculated hourly as follows: 
+χ16 -χ16 χ18 -χ18 
+s;2 s;1 a;2 a;1
+RET . Rd (1)
+χ18 -χ18 χ16 -χ16 
+s;2 s;1 a;2 a;1 
+where Rd is the molar ratio of the calibration water; x is the mixing ratio of water isotopologues; superscripts 16 and 18 denote the 16Oand 18O molecules in water, respectively; s,1 and s,2 indicate span calibration vapor streams; and a,1 and a,2 represent the ambient air sampled at heights 1 (upper) and 2 (lower). The .ux isotope ratio was converted to the delta notation in reference to the Vienna SMOW (VSMOW) standard as follows: 
+()
+RET
+δET . = -1 X1000 0 =00(2)
+RVSMOW The standard errors of those δET in each hour were calculated to quantify the uncertainty of hourly δET [Hu et al., 2014]. Results suggested that the uncertainty was lower when the water vapor gradient between the lower and higher sampling intakes was larger. The average uncertainties of δET_D, δET_18O, and dET were 11.2, 4.6, and 36.2‰, respectively, when the water vapor gradient between the two sampling intakes was larger than 20 ppm. The average uncertainty of δET_18O over a temperate grassland in Inner Mongolia, China, was 7.9‰ [Hu et al., 2014]. Potential uncertainties of δET mainly results from instrument precision, variability in atmospheric conditions, different footprints at the two intake heights, and the averaging method to calculate hourly δET [Good et al., 2012]. 
+To quantify the impact of the evapotranspiration δD and δ18O(δET) on the δD and δ18O(δv) of atmospheric water vapor, the ET isoforcing (IET), also called iso.ux, was de.ned as the product of ET .ux and the deviation of its isotopic ratios from that of near-surface atmospheric water vapor, given by: 
+IET . ETeδET -δv T (3) 
+Similarly, the isoforcing or iso.ux of d (IET_d) can be used to quantitatively explain the impact of evapotranspiration d (dET) on the d of atmospheric water vapor. Following Dansgaard [1953] de.nition of d, IET_d was derived as follows: 
+18O
+IET_d . IET_D -8IET_ 18O -δ18O
+. ETeδET_D -δDT-8ET δET_ [ (( ))] (4)
+18O δD -8δ18O
+. ET eδET_D -8δET_ T-
+. ETedET -dT 
+According to equations (3) and (4), the uncertainty of isoforcing was mainly caused by δET because of the obviously much larger noise compared to that of δv (0.4 ± 1.2 and 0.2 ± 0.4‰ for δD and δ18O, respectively). Therefore, the uncertainty of isoforcing was considered to be comparable with that of δET. 
+2.3. Eddy Covariance and Micrometeorological Measurements 
+An eddy covariance system mounted on a tower at a height of 4.5 m. This system consisted of a LI-7500 open-path CO2/H2O analyzer (Model LI-7500, Licor Inc.), a three-dimensional sonic anemometer (Model CSAT-3, Campbell Scienti.c Inc.) and a CR5000 data logger (Model CR5000, Campbell Scienti.c Inc.). All raw data were recorded at 10 Hz, and the 30 min mean CO2/H2O .uxes were calculated and stored by the CR5000 data logger. Double coordination rotation was applied to remove the effect of instrument tilt or irregularity on the air.ow [Kaimal and Finnigan, 1994]. The Webb-Pearman-Leuning correction was performed to correct for the effect of air density .uctuations on the water vapor and CO2 .uxes [Webb et al., 1980]. Missing evapotranspiration values were interpolated by linear regression between available evapotranspiration and net radiation values of the adjacent 48 h. Micrometeorological variables (air temperature, relative humidity, wind speed, wind direction, net radiation, precipitation time and amount, soil temperature, and soil moisture) were recorded at 1 Hz, with 30 min averages through a suite of micrometeorological sensors mounted above the canopy and in the soil. Additional details concerning data acquisition are further described in the literature [Xu et al., 2013; Liu et al, Multi-Scale Observation Experiment on Evapotranspiration over heterogeneous land surfaces (MUSOEXE-12): Flux Observation Matrix, submitted to Journal of Geophysical Research: Atmospheres, 2014]. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,460 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+2.4. Rain and Irrigation Water Collection and Isotope Analysis 
+During the study period, rainwater was collected with an open container after each precipitation event. Speci.cally, during one precipitation event that occurred on 5 June (DOY 157), 10 rainwater samples were collected at hourly intervals. Besides, the irrigation water was also sampled each time. All of the samples were sealed and stored in a refrigerator (-15 to -20°C) before isotope analysis. The isotope analysis of rainwater samples was performed on a liquid water isotope analyzer (Model DLT-100, Los Gatos Research Inc.), whose precision was typically better than 0.3‰ for δD and 0.1‰ for δ18O. 
+Monthly means of δD and δ18O(δp) in precipitation weighted by amount were calculated as follows: 
+n δp;i XPi i.1 
+X 
+δp . (5)
+n Pi i.1 
+X 
+where δp,i is the δD and δ18O of the ith precipitation and Pi is the amount of the ith precipitation. 
+The water vapor δDand δ18O in a state of isotopic equilibrium with precipitation (δv,e) were calculated as follows: 
+()
+1 tδp =1000 
+δv;e .-1 X1000 eT
+‰(6)
+αeq 
+where αeq is the temperature-dependent equilibrium fractionation factor [Majoube, 1971]. 
+3. Results and Discussion 
+3.1. Seasonal Variations 
+Figure 2 presents the temporal variations of all valid hourly observations of δD, δ18O, and d of atmospheric water vapor at the upper intake and event-based precipitation from 27 May (DOY 148) to 22 September (DOY 266) 2012 in Zhangye. In.uenced by the typical arid continental climate, the water vapor δD, δ18O, and d did not show a clear seasonal cycle. In general, the monthly δDand δ18Oslowly increased from May to August and then decreased, whereas monthly d showed a steady decrease. The mean (±one standard deviation) δD, δ18O, and d values of atmospheric water vapor during the experiment were -106.2 ± 19.6‰ (ranged from -216.2 to -54.3‰), -14.85 ± 2.85‰ (-29.04 to -7.35‰)and 12.6 ±10.5‰ (-23.3 to 37.7‰), respectively. The coef.cients of variation for δD, δ18O, and d were 18.5%, 19.2%, and 84.8%, respectively. Considerable day-to-day variations of water vapor δD, δ18O, and d were observed, occasionally exceeding 130‰,15‰,and 45‰,respectively. 
+Figure 2 also shows that the δDand δ18O of event-based precipitation were signi.cantly higher than that of atmospheric water vapor, whereas the d was signi.cantly lower than that of atmospheric water vapor. Weighted by the precipitation amount, the mean δD, δ18O, and d of precipitation were -36.5‰ (ranged from -72.45 to 25.62‰), -5.70‰ (-9.03 to 3.16‰)and 9.2‰ (-18.81 to 14.63‰), respectively. Among the 24 precipitation events during our experiment, the d of 12 events (50%) was negative, and the d of 19 events (79.2%) was lower than 10‰, the global average d in precipitation [Dansgaard, 1953]. The δD, δ18O, and d of irrigation water, which was introduced from the Heihe River, were -51.6 ± 1.7‰, -8.65 ± 0.30‰, and 17.60 ± 2.23‰, respectively, higher than that of atmospheric water vapor (Figure 2). Most of the irrigated water returned to the atmosphere via soil evaporation and transpiration, namely, evapotranspiration. Its impact on the near-surface atmospheric water vapor was discussed in section 3.5. 
+Positive δDand δ18O values in precipitation tend to occur in small showers, which are vulnerable to subcloud evaporation [Yu et al., 2006; Tian et al., 2007; Wen et al., 2010]. This .nding was also con.rmed by the much lower d in precipitation observed during our experiment. Based on the long-term observation of d in precipitation of Alpine regions, Froehlich et al. [2008] found that the corresponding decrease of d in precipitation is approximately 1‰ per 1% increase in the fraction of evaporation during rainfall. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,461 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+Figure 2. Hourly values of (a) δD, (b) δ18O, and (c) deuterium excess (d) of atmospheric water vapor (dots) from 27 May 2012 to 22 September 2012 in Zhangye, China. The isotopic ratios (circles) and amounts (columns) of event-based precipitation and isotopic ratios (triangles) of irrigated water are also shown. 
+According to Table 1, the monthly δD and δ18O increased by 15.5 and 2.76‰ from May to August and reached maximum values of -97.5 ± 14.4‰ and -13.74 ± 2.16‰, respectively. This result may be related to the enrichment of transpiration. From May to August, the transpiration rate increased with increasing LAI. The δET, mainly contributed by the isotopic signature of transpiration at this site, was always higher than the isotopic ratios of near-surface atmospheric water vapor and the water vapor isotopic ratios were positively correlated with δET, which was higher during the early season than that during the midseason. The monthly δD and δ18O in September decreased by 16.4‰ and 1.39‰, respectively, compared with those values in August. The decrease in the transpiration rate and δET in late season and cold air masses that lead to the frost may contribute to these changes. The monthly d steadily decreased from 19.0 ± 6.6‰ in May to 7.2 ± 13.9‰ in September, which may relate to the decreased proportion of soil evaporation because of the increasing LAI from May to August and relative low temperature in September (Table 1). Gat [1996] suggested that the evaporated water vapor d was usually high, thus leading to an increase of near-surface water vapor d. Besides, the steady state plant transpiration is considered to have a positive forcing on water vapor d, whereas the nonsteady state transpiration will exert an opposite effect [Simonin et al., 2014]. We speculated that the relative contribution of steady state and nonsteady state transpiration changed seasonally at different growth period of corn. Moreover, the seasonal variation of entrainment and air mass advection at this site should also be taken into consideration to further interpret the seasonal variation of water vapor d. 
+The seasonal variations of atmospheric water vapor δD, δ18O, and d in Zhangye differed from the variations in other places. The δD, δ18O, and d of water vapor at some sites exhibit a marked seasonal cycle. For instance, the water vapor δ18O from December 2003 to November 2004 in New Haven was higher in the warm season (May–October) than in the cold season (November–April), with the highest monthly value (-15.1‰)in May and with the lowest monthly value (-29.4‰) in January [Lee et al., 2006]. Wen et al. [2010] also observed 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,462 
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,463 
+
+Table 1. Monthly Mean Values of the Leaf Area Index (LAI), Water Vapor Mixing Ratio (w), Surface Air Temperature (T), Relative Humidity (RH), Total Precipitation (P), Isotope Ratios of AtmosphericWater Vapor, Precipitation, and the Vapor in Equilibrium With Precipitation (δD, δ 18O, and d) From 27 May to 22 September 2012 in Zhangye, Chinaa Vapor (‰) δ 18 
+δDO d Precipitation (‰) Vapor in Equilibrium (‰) 
+LAI wT RH P 
+2 -2 δ 18 δ 18 
+Date m m mmol mol -1 °C % mm mean± σ CV mean ± σ CV mean ± σ CV δDO d δDO d 
+May 2012 0.18 6.1 18.5 28.6 1.1 -113.1 ± 20.0 0.18 -16.52 ± 2.43 0.15 19.0 ± 6.6 0.34 25.6 3.16 0.4 -56.5 -6.72 -2.8 
+Jun 2012 1.51 13.0 20.0 51.8 31.0 -114.1 ± 18.8 0.17 -16.11 ± 2.83 0.18 14.7 ± 9.4 0.64 -44.7 -7.05 11.7 -119.7 -16.69 13.9 
+Jul 2012 4.60 18.5 20.1 72.6 46.9 -100.8 ± 16.5 0.16 -14.28 ± 2.25 0.16 13.4 ± 8.5 0.64 -35.4 -5.68 10.0 -111.1 -15.32 11.5 
+Aug 2012 3.77 16.3 19.3 68.9 23.9 -97.6 ± 14.4 0.15 -13.76 ± 2.16 0.16 12.4 ± 9.5 0.76 -31.1 -4.52 5.0 -107.9 -14.24 6.1 
+Sep 2012 2.08 10.0 14.2 61.5 0.3 -114.0 ± 23.2 0.20 -15.15 ± 3.63 0.24 7.2 ± 13.9 1.94 -2.1 1.68 -15.5 -86.5 -8.56 -18.0 
+May–Sep 2012 2.95 14.5 18.7 62.5 103.2 -106.2 ± 19.6 0.19 -14.85 ± 2.85 0.19 12.6 ± 10.5 0.83 -36.5 -5.70 9.2 -113.4 -15.47 10.4 
+
+a
+The monthly δD, δ18O, and d in precipitation were computed as the precipitation weighted mean values. 
+that the δD and δ18O of water vapor from December 2006 to November 2007 in Beijing were higher in the warm season than in the cold season, with much less variability in the summer monsoon season. The variation amplitudes of δD and δ18O were 319‰ and 49‰, respectively. Sunmonu et al. [2012] found that the near-surface water vapor δD in Sapporo, Japan, from April 2009 to June 2011 presented a clear seasonal cycle, with higher values during the warm season than during the cold season. In the Manitou Experimental Forest, the water vapor δDand δ18O between May and October in 2011 exhibited a strong seasonal cycle, characterized by a slow rise from May to August and then a rapid decline to the fall minima. The variation amplitudes of δD and δ18Owere 222‰ and 28.7‰, respectively [Berkelhammer et al., 2013]. In Western Siberia (Kourovka), Bastrikov et al. [2014] observed that the water vapor δDand δ18O from September 2012 to August 2013 showed a marked seasonal cycle with maximum δD and δ18O in summer and minimum values in winter. The variation amplitudes of δDand δ18O were 197‰ and 25‰, respectively. 
+However, the δD, δ18O, and d of atmospheric water vapor at some sites do not present a clear seasonal trend. For instance, the δD and δ18O of atmospheric water vapor in Luancheng showed no seasonal cycle and seemed to covary with those values of precipitation [Zhang et al., 2011]. The variation amplitude of δD, δ18O, and d of water vapor were 119.7‰, 16.79‰, and 64.2‰, respectively. At some other sites, the observation time of water vapor δD, δ18O, and d is too short to diagnose the seasonal variation trend. For example, Farlin et al. [2013] found that the water vapor δD and δ18O over a 30 day period in San Diego usually corresponded to the timing of the Santa Ana wind, with much lower δD and δ18O values under the strong in.uence of the synoptic event and then a rapid recovery to higher values as the Santa Ana wind subsided. The variation amplitudes of δD, δ18O, and d of water vapor were 12.2‰, 86.5‰, and 26.5‰, respectively. In the Wind River Experimental Forest, the water vapor δDand δ18O over a 36 day period maintained higher values after intense rain events [Rambo, 2013]. 
+3.2. Diurnal Variations 
+Figure 3 shows the average diurnal cycle of water vapor δD, δ18O, and d at the upper intake for the entire observation period (DOY 148–266). The water vapor δDand δ18O exhibited a marked diurnal cycle pattern. The δDand δ18Oofatmospheric water vapor gradually increased from 6:00 h, reached the .rst peak at 
+9:00 h, and then gradually decreased until approximately 15:00 h. From 15:00 h to 21:00 h, the δDand δ18O increased again and reached the second peak, after which the values decreased once again. The water vapor d showed a clear, robust diurnal cycle characterized by lower values in nocturnal hours, rapid transitions in the early morning and late afternoon, and the highest values at approximately 12:00 h. The peak-to-peak variations of δD, δ18O, and d were 11.2‰, 2.42‰, and 17.8‰, respectively. 
+Figure 3 also shows the average diurnal cycle of water vapor δD, δ18O, and d at the upper intake for three periods, the early 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+(DOY 148–172, LAI < 2), middle (DOY 173–257, LAI > 2), and late season (DOY 258–266, LAI < 2). The diurnal patterns of water vapor δDand δ18O were generally similar in the three seasons. However, the water vapor δDand δ18Oweresigni.cantly higher in the midseason than in the early and late seasons. The peak-to-peak variations of δD, δ18O, and d were 12.4‰, 1.91‰,and 15.1‰ in the early season; 11.8‰, 2.36‰, and 17.6‰ in the midseason; and 28.0‰, 5.60‰, and 30.8‰ in the late season, respectively. The variability of water vapor δD, δ18O, and d in the late season was much more dramatic than that in the early and midseason. 
+The diurnal cycle of water vapor δD, δ18O, and d was primarily controlled by the interaction of local ET and boundary layer entrainment [Lee et al., 2006; Wen et al., 2010; Welp et al., 2012], as well as by the condensation and evaporation of dew [Welp et al., 2008; Zhang et al., 2011; Wen et al., 2012b]. The local ET, particularly transpiration, tended to enrich the surface water vapor in heavy isotopes, whereas the entrainment tended to deplete them. The decrease in water vapor δD and δ18O from 9:00 h to approximately 15:00 h can be attributed to the rapid increase of free air entrained into the boundary layer while transpiration is relatively weak. After 15:00 h, the enriching effect of local ET overrode that of entrainment. The water vapor δD and δ18O peaked at approximately 21:00 h when the mixed layer collapsed but the transpiration still acted to enrich the water 
+vapor in heavy isotopes. Theoretically, the d of transpiration at nonsteady state should increase as temperatures 
+and relative humidity decreases [Simonin et al., 2014]. The water vapor d increased from 4.6‰ at sunrise to 
+an average midday maximum of 22.4‰ (Figure 3c), as air temperature and transpiration at nonsteady state 
+increased and relative humidity decreased as well as entrainment developed. Even though the continuing 
+increase of temperature and decrease of relative humidity from 12:00 h to 15:00 h, the water vapor d showed a 
+slight decrease. We speculated that the transpiration approximately approached to steady state with low d 
+approximately equal to that of xylem water and dragged the water vapor d down, while the entrainment acted 
+to increase d of near-surface water vapor. Our intensive campaign showed that the isotope composition of 
+transpiration approximately equal to that of xylem water during 13:00 h–15:00 h derived from the isotopic mass 
+conservation when ET reached maximum. After that, the water vapor d decreased to an average minimum 
+of 4.6‰ at sunrise, as air temperature and transpiration at nonsteady state decreased and relative humidity 
+increased as well as entrainment collapsed. 
+A clear diurnal cycle of atmospheric water vapor δD, δ18O, and d was observed at some other sites. For instance, Wen et al. [2010] found that the diurnal variations of water vapor δDand δ18O in Beijing seemed to be in phase with the variations in the vapor mixing ratio with minimum values occurring in the early afternoon hours (12:00 h–16:00 h) and with maximum values occurring around midnight. The diurnal cycle of 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,464 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+water vapor d was in an opposite phase with that of the vapor δD and δ18O. Zhang et al. [2011] observed a clear diurnal pattern during the peak growing period of winter wheat, which was characterized by a steady increase from 6:00 h to 18:00 h and gradual decrease from 18:00 h to 
+6:00 h. The maximum δD and δ18O values were obtained during the sunset transition when the mixed layer usually collapsed; however, transpiration still acted to enrich the water vapor in heavy isotopes. The water vapor δ18O above a soybean site in Rosemount exhibited a gradual decrease from 21:00 h to 13:00 h, a slight increase from 13:00 h to 18:00 h and a larger, more rapid increase in the evening between 
+18:00 h and 21:00 h. Lee et al. [2006] observed similar diurnal variations during four seasons in New Haven, with maximum values occurring in the early afternoon 
+(12:00 h–16:00 h) and with minimum values occurring around midnight. Noone et al. [2011] found that the water vapor δDvaried in phase with w in their 28 day experiment at Mauna Loa, Hawaii. There was a consistent and rapid transition from low to high values beginning at around 
+9:00 h. The highest water vapor mixing ratios were observed at around 13:30 h, followed by a slower return to low nighttime values in the evening. At some sites, the diurnal pattern of water vapor δD and δ18O differ in different seasons. For example, Steen-Larsen et al. [2013] found that the water vapor δDand δ18Oabove the Greenland Ice Sheet were marked by a 
+particularly strong diurnal cycle during the period from DOY 180 to 190 but a null or extremely weak diurnal signal with abnormally multiday high or low mean isotopic levels during the other period. 
+The diurnal cycle of water vapor d seems to be independent of geographical location or vegetation type. The diurnal pattern of water vapor d was similar to that at six sites in America and China reported by Welp et al. [2012] and that in a coniferous forest in the Paci.c Northwest [Lai and Ehleringer, 2011]. Rambo [2013] and Simonin et al. [2014] also observed a marked diurnal cycle of d, with lower values in nocturnal hours and with highest values during midday. However, the nighttime “baseline” values of water vapor d showed different levels at each site [Welp et al., 2012] and in different periods during the maize growing season (Figure 3c), indicating the discrepant roles of dewfall, moisture exchange between leaf water and canopy vapor and periodic mixing between canopy and background air in nocturnal water cycling [Berkelhammer et al., 2013]. 
+In order to analyze the in.uence of condensation and evaporation of dew on atmospheric water vapor ratios, Figure 4 presents the average diurnal cycle of δD, δ18O, and d of atmospheric water vapor at the upper intake and those values further .ltered by the presence of dew on 69 nights and no dew on 49 nights. The variations of water vapor δD, δ18O, and d for the dew group and nondew group were generally consistent between 9:00 h and 24:00 h but varied greatly between 1:00 h and 9:00 h. On nights with dew formation, the water vapor δDand δ18O dramatically decreased by 6.2‰ and 0.73‰ from 1:00 h and 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,465 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+reached the minimum at 7:00 h, after which an increase of 11.4‰ and 0.53‰ occurred, respectively. On nights lacking dew formation, however, the water vapor δD and δ18O increased by 8.1‰ and 1.10‰ from 1:00 h to 9:00 h, respectively. The vapor d on nights with dew formation was signi.cantly lower than that on nights lacking dew formation. The peak-to-peak variations of δD, δ18O, and d were 13.0‰, 2.76‰, and 18.5‰ for the dew group and 10.3‰, 2.25‰,and 17.7‰ for the nondew group, respectively. The variability of water vapor δD, δ18O, and d for the dew group was more dramatic than that for the nondew group. 
+The discrepancies of variations of water vapor δD, δ18O, and d on nights with and without dew formation indicated the impact of dewfall and nighttime evapotranspiration. The condensation of dew from water vapor prior to dawn should deplete the water vapor in heavy isotopes, whereas the evaporation of dew should enrich them. Wen et al. [2012b] observed an excellent correlation between isotopic ratios of water vapor and dew and con.rmed the dominant role of equilibrium fractionation during dew formation. On nights lacking dew formation, the increase of water vapor δDand δ18O between 1:00 h and 9:00 h may be caused by the isotopic nonsteady state transpiration [Simonin et al., 2014]. There was also an upward transpiration and soil evaporation .ux (2%) on nights with dew formation; however, this .ux was easily overridden by the dominated downward .ux of water vapor (98%) from above the canopy [Wen et al., 2012b]. More evidence has demonstrated the existence of transpiration in nocturnal hours [Caird et al., 2007]. 
+That the water vapor d on nights with dew formation was systematically lower than that on nights 
+lacking dew formation can be explained by the opposite effect of nighttime equilibrium isotope 
+exchange and isotope nonsteady state transpiration. Simonin et al. [2014] suggested that nighttime 
+equilibrium isotope exchange between leaf water and atmospheric water vapor might exist when 
+atmosphere stabilizes, water vapor is saturated and stomata are not completely closed. This equilibrium 
+isotope exchange will exert a negative forcing on the d of near-surface atmospheric water vapor. The 
+nonsteady transpiration occurred on nights lacking dew formation should exert a positive forcing on 
+the d of near-surface atmospheric water vapor. Here our long-term detailed, in situ measurements of 
+atmospheric water vapor isotopic ratios contribute evidence under naturally occurring conditions to a 
+small but growing literature on the nighttime equilibrium isotope exchange on interface of liquid and 
+water vapor [Kim and Lee, 2011; Simonin et al., 2014]. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,466 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+Figure 6. Relation between the difference in the measured and equilibrium water vapor isotope ratios (δD, δ18O, and deuterium excess (d)), and (a–c) rain amount (P), (d–f) relative humidity (RH), and (g–i) surface air temperature (T ) during precipitation events. 
+3.3. Effects of Precipitation on the Atmospheric Water Vapor Isotopic Ratios 
+Figure 5 presents a comparison of the measured atmospheric water vapor isotopic ratios with equilibrium predictions (δDe, δ18Oe,and de) during precipitation events. Each data point represents one precipitation event. The geometric mean regression (GMR) between water vapor δD and predicted δDe was δD=0.82 δDe-22, R2 =0.82 (n = 24, p < 0.001). The GMR between water vapor δ18Oand predicted δ18Oe was δ18O=0.55δ18Oe-7.92, R2 =0.64 (n =24, p < 0.001). The isotopic equilibrium between water vapor and precipitation was also con.rmed by some other studies [Jacob and Sonntag, 1991; Lawrence et al., 2004; Lee et al., 2006; Wen et al., 2010; Zhang et al., 2011]. The GMR between water vapor d and predicted de was d = 0.17de + 12.79, R2 = 0.17(n = 24, p = 0.044) with systematically underestimated equilibrium values. Similar phenomena also occurred in Beijing [Wen et al., 2010] and Luancheng [Zhang et al., 2011]. The equilibrium predictions were largely biased from the water vapor measurement for the events with rain amount smaller than 0.3 mm. With these events excluded, the water vapor δD, δ18O, and d were in reasonable agreement with the equilibrium predictions with R2 of 0.95, 0.87, and 0.25, respectively. Robust relations indicated that atmospheric water vapor δD and δ18O during the precipitation events in an inland desert oasis could also approach a state of equilibrium with precipitation water, revealing the in.uence of precipitation processes. 
+Figure 6 illustrates the dependence of the difference between the observed and predicted δD, δ18O, and d on the rain amount (P), relative humidity (RH), and surface air temperature (T) during precipitation events. The water vapor δD, δ18O, and d dramatically departed away from the equilibrium state as the rain amount decreased. We speculated that subcloud partial evaporation of raindrops occurred in an unsaturated condition during small showers. The departures of water vapor δDand δ18O from the equilibrium state positively correlated with RH. Because of the kinetic fractionation effect in the unsaturated condition, the water vapor isotopic ratio should be lower than the equilibrium ratio with decreasing RH. Furthermore, the relation of the GMR in Figures 6d and 6e was more robust for δ18O(R2 =0.68, p < 0.001) than for δD(R2 = 0.51, p < 0.001) 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,467 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+Figure 7. The temporal dynamics of (a) surface air temperature (T), (b) relative humidity (RH), (c) water vapor mixing ratio (w), and rain amount (P); (d–f) isotope ratios (δD, δ18O, and d) of atmospheric water vapor (squares) and the vapor in equilibrium with precipitation (.lled triangles); and (g–i) the correlation of δD, δ18O, and d with the cumulative rain amount during one precipitation event with a rain amount of 4.3 mm. 
+because the kinetic fractionation for 18O is approximately 50% stronger than that for D [Merlivat and Jouzel, 1979]. The difference in the kinetic fractionation effect between D and 18O should cause water vapor δ18O to depart more from the equilibrium value than water vapor δD as RH decreased. The net result is that d should be higher than that of equilibrium vapor according to Dansgaard [1953] de.nition of d. This possibility was con.rmed by the negative correlation of d-de with RH (Figure 6f) and explained the systematically underestimated de in Figure 5c. The underestimation of de was also found in previous studies [Wen et al., 2010; Zhang et al., 2011]. The departures of water vapor δD and δ18O were negatively correlated with T, and the departure of water vapor d was positively correlated with T (Figures 6g–6i). This result may be explained by the temperature-dependent equilibrium fractionation factor [Majoube, 1971] and the larger partial subcloud evaporation of raindrops at higher air temperatures, thus higher δDe and δ18Oe. The equilibrium fractionation factor is approximately 8 to 10 times greater for HDO than H218O, depending on the temperature of the liquid-vapor interface [Majoube, 1971]. As the temperature increased, the ratio of equilibrium fractionation factor for HDO and H218O decreased and the de became much lower than d. Therefore, the d-de showed positive correlation with T. The above analysis indicated the importance of considering the rain amount, relative humidity, and surface air temperature when estimating isotopic ratios of atmospheric water vapor from those ratios of precipitation and vice versa. 
+Furthermore, Figure 7 presents the temporal dynamics of surface air temperature (T), relative humidity (RH), water vapor mixing ratio (w), rain amount (P), isotopic ratios of atmospheric water vapor and the vapor in equilibrium with precipitation, as well as the correlation of δD, δ18O, and d with the cumulative rain amount during one precipitation event with a rain amount of 4.3 mm. During the .rst 3 h, the air temperature dropped to approximately 13°C, and the water vapor approached saturation or near saturation (RH > 95%). Although the rain intensity continued to increase, the water vapor mixing ratio increased, indicating a possible continuous addition of water vapor during this time. The “amount effect” was observed as the precipitation progressed. The atmospheric water vapor δDand δ18O decreased by 5.74 and 0.85‰, respectively, per 1 mm increase in the cumulative rain amount (Figures 7g and 7h). This result suggested that the amount 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,468 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+Table 2. The Linear Correlation Coef.cients of the Hourly δD, δ18O, and d With Logarithms of the Water Vapor Mixing Ratio (ln(w)), Relative Humidity (RH), Surface Air Temperature (T), and Isotope Ratio of Evapotranspiration (δET) for Each Month and for All Observed Data ln(w) RH T δET δ18δ18δ18δ18
+Date δDO d δDO d δDO d δDO d 
+May 2012 Jun 2012 Jul 2012 Aug 2012 Sep 2012 May–Sep 2012  0.90a 0.26a 0.21a 0.07 0.62a 0.41a  0.89a 0.34a 0.23a 0.02 0.53a 0.37a  0.10 0.73a 0.83a -0.22b -0.36a -0.51a 0.44a 0.61a 0.54a 0.47a -0.29a -0.08b 0.12a -0.44a 0.19a -0.05 0.48a 0.23a 0.12a 0.36a -0.07b -0.20a 0.10a -0.60a 0.23a -0.06 0.57a 0.12a 0.18a 0.23a 0.06 -0.42a -0.05 -0.55a 0.46a 0.04 0.63a 0.07a 0.09b 0.16a -0.08 0.10b 0.43a -0.74a 0.18a -0.22a 0.76a 0.50a 0.34a 0.31a -0.05b 0.04b 0.28a -0.55a 0.24a -0.08a 0.64a 0.32a 0.20a 0.26a  
+a p < 0.001. b p < 0.05.  
+effect existed in an arid desert oasis. During the last 4 h, the water vapor δDand δ18O showed fairly rapid  
+decrease, whereas the rain amount increased by only 0.7 mm, indicating the in.uence of some other processes.  
+The water vapor d showed a slow increase resulting from the difference in amount effect on water vapor δDand δ18O as precipitation progressed. Notably, we only observed the temporal dynamics of δD, δ18O, and d  
+in water vapor and precipitation during one precipitation event. These processes may vary with precipitation  
+type [Celle-Jeanton et al., 2004].  
+3.4. Dependence on Weather Variables  
+Table 2 lists the correlation coef.cients of atmospheric water vapor isotopic ratios with water vapor mixing (w),  
+relative humidity (RH), surface air temperature (T), and isotope ratios of evapotranspiration (δET) for each month and for all observed data. The linear correlation coef.cients of δDand δ18Owith w varied from 0.07 to  
+0.90 and from 0.02 to 0.89, respectively, with stronger correlations in May and September. For all observed  
+data throughout the growing season, the water vapor δDand δ18Owere log  
+linear dependent on the w ( p < 0.001),  
+revealing the effect of Rayleigh distillation  
+accompanying air mass advection [Lee  
+et al., 2006; Wen et al., 2010; Zhang et al.,  
+2011]. However, the capability of w to  
+explain the variability of atmospheric water vapor δD (17%) and δ18O (14%) was  
+signi.cantly lower than that in New Haven (δ18O: 78%) [Lee et al., 2006], in Beijing (out of monsoon season δD: 78%, δ18O: 79%)  
+[Wen et al., 2010], and in Luancheng (δD: 50-54%, δ18O: 46-48%) [Zhang et al.,  
+2011]. The Rayleigh distillation model is  
+based on the following assumptions  
+[Dansgaard, 1953], namely, to ignore the  
+external addition of moisture in the process  
+of air mass advection and to exclude the  
+in.uence of the subcloud evaporation of  
+raindrops. On one hand, the additional  
+water vapor from evapotranspiration for  
+near-surface atmosphere cannot be ignored  
+in Zhangye, which is an arid desert oasis.  
+This situation can be con.rmed by the correlation of water vapor δD, δ18O, and d  
+with δET in Table 2. On the other hand, the raindrops have undergone partial evapo-ration in conditions with high temperature Figure 8. The correlation of hourly atmospheric water vapor deuterium excess (d) with (a) the relative humidity (RH) and with (b) the surface air temperature (T).  
+
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,469 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+and low humidity in Zhangye (see section 3.3). The correlation coef.cients with relative humidity varied from -0.42 to 0.73 and from -0.05 to 0.83 for δDand δ18O, respectively. The correlation coef.cients with air temperature varied from -0.36 to 0.46 and from -0.51 to 0.04 for δDand δ18O, respectively. Wen et al. [2010] found that the coef.cients of correlation with air temperature in Beijing varied from -0.30 to 0.24 and from -0.33 to 
+0.19 for δDand δ18O, respectively. Lee et al. [2006] found that the coef.cients of correlation with air temperature in New Haven varied from 0.02 to 0.78 for δ18O. 
+Figure 8 presents the correlation of hourly d of atmospheric water vapor with relative humidity (RH) and surface air temperature 
+(T) during rainy and nonrainy periods. For all observed data, the atmospheric water vapor d was negatively correlated with local RH (r = -0.55, p < 0.001). With data in the rainy period excluded, the linear equation captured 36% of the variations of vapor d (d/RH = -0.43‰/%, R2 = 0.36, p < 0.001). The correlation became stronger and stronger from May to September, with correlation coef.cients ranging from -0.22 to -0.74 (Table 2). This result may indicate a local source of moisture to the atmosphere. A similar negative correlation has also been found at some other terrestrial sites, such as Rietholzbach, New Haven, and Borden Forest, suggesting that local contributions of moisture are relatively high [Welp et al., 2012; Aemisegger et al., 2013]. Welp et al. [2012] found that the slope of d-RH relation is smaller in the continental boundary layer (-0.36‰/% in New Haven and -0.22‰/% in Borden) than that in marine-type settings 
+(approximately -0.5‰/%), as found by Pfahl and Wernli [2008] and Uemura et al. [2008], because of the recycled moisture from continental origin. Due to the stronger in.uence of transpiration in the warm season, Aemisegger et al. [2013] found a weaker sensitivity of d to changes in the RH of the moisture source in summer (approximately -0.2‰/%) than in winter. 
+The water vapor d was signi.cantly correlated with T (r = 0.64, p < 0.001). Water vapor d was negatively correlated with T (d/T = 1.72‰/°C, R2 = 0.10, p < 0.001) during the rainy period, whereas water vapor d positively correlated with T (d/T = -1.83‰/°C, R2 =0.46, p < 0.001) during the nonrainy period. The correlation became stronger and stronger from May to September, with correlation coef.cients ranging from 0.44 to 0.76 (Table 2). However, Welp et al. [2012] found that the water vapor d at six sites in America and China did not have a signi.cant correlation with T. According to what the theory predicts, the d of transpiration at nonsteady state should increase as temperature increases for a given humidity, whereas the d of transpiration at steady state should approach to that of plant xylem water [Simonin et al., 2014]. The positive correlation between water 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,470 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+vapor d and T con.rmed that nonsteady state processes, like isotopic nonsteady state transpiration, were dominating the ET .ux in this arid arti.cial oasis cropland. Aemisegger et al. [2013] suggested that the strength of the relation between water vapor d and the environmental conditions of the moisture source can be used to diagnose the continental moisture recycling and the contribution of local source of moisture to the atmosphere. The signi.cant correlation between water vapor d and the local RH and T in Zhangye indicated the importance of local moisture cycling in this inland arid region. The fraction of local moisture to the atmosphere in Zhangye requires further research. 
+3.5. Effects of Local Evapotranspiration and Entrainment 
+Figure 9 shows the correlation of hourly atmospheric water vapor δD, δ18O, and d with the isotope ratios of evapotranspiration (δET_D, δET_18O, and dET)duringrainy and nonrainy periods. The atmospheric water vapor isotope ratios signi.cantly correlated with δET (p < 0.001) during the nonrainy period. According to Table 2, a signi.cant correlation was also found for each month. The linear correlation coef.cients of water vapor δDand δET_D varied from 0.07 to 0.61 (p < 0.001). The linear correlation coef.cients of water vapor δ18O and δET_18O varied from 0.09 to 0.54 (p < 0.001 except that p < 0.05 in August). The linear correlation coef.cients of water vapor d and dET varied from 0.16–0.47 (p < 0.001). Note that the R2 values are relatively poor in these statistically signi.cant correlations. This may be attributed to the disturbance of data in nighttime (Figure 10), to the uncertainty in estimates of δET when ET was relative 
+weak and to the large sample size. In general, these correlations revealed the dependence of atmospheric 
+water vapor isotope ratios on δET. The atmospheric water vapor isotope ratios should re.ect the isotopic 
+signature if the local evapotranspiration, which mainly came from irrigated water and precipitation, was a 
+source of moisture to the atmosphere and exerted an impact on the water vapor isotopic ratios. The above 
+correlations con.rmed this possibility to some extent. During the rainy period, the local evapotranspiration 
+was extremely weak or could be ignored. Therefore, there was no signi.cant correlation between hourly 
+atmospheric water vapor isotope ratios and the isotope ratios of evapotranspiration during rain events. 
+Furthermore, Figure 10 presents the correlation of 24 h average values of atmospheric water vapor isotope ratios with the isotope ratios of evapotranspiration. No signi.cant correlation was found at night (21:00 h–6:00 h) when the local ET is relative weak. In the daytime (7:00 h–20:00 h), the evapotranspiration .ux δET_D, δET_18O, and dET captured 52%, 91%, and 94% of the variability of atmospheric water vapor δD, δ18O, and d, respectively, indicating the in.uence of the local ET. Lee et al. [2007] also observed the in.uence of transpiration on water 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,471 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+
+vapor δ18O above the forest canopy. The above positive correlations (Figures 9 and 10) con.rmed the enriching effect of evapotranspiration on near-surface water vapor δD, δ18O, and d. 
+Figure 11 presents the average diurnal cycle of evapotranspiration isoforcing (IET), which is also called iso.ux, for all observed data and for those data .ltered by the time of season. IET can be used to quantify the driver of evapotranspiration on atmospheric water vapor isotope ratios [Welp et al., 2008]. The 24 h average IET_D and IET_18Ovalues were always positive and peaked at 
+15:00 h, suggesting that the local ET tended to enrich the surface water vapor in heavy isotopes over season and diurnally. The average iso.ux values of δD 
+-1‰
+were 97.1, 109.4, and 34.4 mmol m-2s in the early, middle, and late season, respectively, and the corresponding iso.ux values of δ18O were 24.31, 24.18, and 13.63 mmol m-2s -1‰, respectively. The iso.ux values of δD and δ18O were signi.cantly stronger in the early and middle season than that in the late season because of the decreased transpiration. The LAI sharply dropped from 2.9 to 
+0.7 m2 m -2 because frost occurred on 13 and 14 September (DOY 257 and 258). The enriching effect of the local ET on vapor δD and δ18O can be overwhelmed by air mass advection and by entrainment [Lai et al., 2006; Lee et al., 2006]. 
+Throughout the observation, the respective iso.ux of δDand δ18O were 102.5 and 
+23.50 mmol m-2s -1‰, with most contributed by the evapotranspiration isoforcing in the daytime (7:00 h–20:00 h). The evapotranspiration isoforcing in the daytime were 139.4 and 29.45 mmol m-2s -1‰, respectively (Figures 11a and 11b). However, the vapor δDand δ18O still revealed peak-to-peak variations of 11.2 and 2.42‰, respectively, with decrease of 10.1 and 2.24‰ in the daytime, respectively (Figures 3a and 3b). The depletion can be explained by the dominated effect of entrained free atmosphere. According to the aircraft observation of He and Smith [1999], the vapor δ18O at the boundary layer top (-50‰) was signi.cantly lower than that in the mixed layer (-22‰) and that in this study (-14.85 ± 2.85‰). Lee et al. [2006] found that entrainment can cause a depletion of 0.8‰ over 5 h or half of the diurnal variation in water vapor δ18O. The iso.ux values of δDand δ18O in the late season were weaker than that in the early and middle season, thus playing a lesser offset to the depletion effect of entrainment. Therefore, the daytime vapor δDand δ18O sharply dropped in the late season. 
+In contrast, the 24 h average IET_d was always negative and showed a slow decrease from 8:00 h, reached the minimum at approximately 15:00 h, and then recovered to the nighttime level (Figure 11c). The average iso.ux values of d were -94.7, -81.1, and -74.6 mmol m-2s -1‰ in the early, middle, and late season, respectively. The negative values of IET_d seemed to indicate that the local ET would decrease the vapor d over season and diurnally. Actually, owing to the positive forcing of both local ET and entrainment, the water vapor d became larger than dET, thus leading to the wrong sign of IET_d according to equation (4). 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,472 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+Acknowledgments 
+This study was supported by the National Natural Science Foundation of China (91125002 and 31171500) and CAS Strategic Priority Research Program (grant XDA05050601). The data for this paper are available at Data Center for Cold 
+and 
+Arid 
+Region 
+Sciences 
+(http:// 
+westdc.westgis.ac.cn). Data set 1: Data set of stable isotopic observation (doi:10.3972/hiwater.108.2013.db). Data set 2: Data set of .ux observation matrix (Daman 
+Superstation, 
+doi:10.3972/ 
+hiwater.073.2013.db). Data set 3: Data set of .ux observation matrix (eddy covariance system of Daman Superstation Lower, doi:10.3972/hiwater.096.2013.db). 
+Previous discussion of diurnal d has indicated the enriching effect of nonsteady state transpiration (section 3.2). The isotopic land surface model SiLSM also suggested that the nonsteady state transpiration is a likely contributor to the diurnal cycle of water vapor d [Xiao et al., 2010]. Moreover, the d of soil evaporation due to the kinetic fractionation was usually large enough to contribute to the d variability, even by a relative small portion of total evapotranspiration [Welp et al., 2012]. This effect cannot be ignored in arid regions, such as Zhangye. The positive forcing of transpiration and evaporation, namely, evapotranspiration, on the water vapor d was con.rmed by the positive correlations in Figures 9c and 10c. 
+That the water vapor d was larger than dET indicated that the entrainment was also an important contributor to the daytime increase in water vapor d. Limited evidence has shown that the free atmosphere d was 5.1–8‰ higher than the atmosphere boundary layer values [He and Smith, 1999; Grif.setal., 2011]. Webster and Heyms.eld [2003] also reported extremely large water vapor d in the upper troposphere and in lower stratosphere of the tropics and subtropics. By parameterizing the ISOLES model, Welp et al. [2012] demonstrated that vertical mixing and entrainment could produce increases in vapor d from early morning to midafternoon similar in magnitude to that of the observed changes. Based on the isotope mass balance model, Lai and Ehleringer [2011] predicted that atmospheric entrainment exerted a positive isotope forcing in the afternoon during the last 2 days of their three study days. The continuous observation of water vapor isotopic ratios of both free atmosphere and the boundary atmosphere and isotope-enabled modeling would be necessary to quantify the relative roles of local ET and entrainment to variations of atmospheric water vapor isotopic ratios and provide a more in depth understanding of the hydrological cycle between the atmosphere and the Earth’ssurface. 
+4. Conclusions 
+Based on a wavelength-scanned cavity ring-down spectroscopy (WS-CRDS, Picarro Inc.) analyzer, we investigated the temporal variations of δD, δ18O, and d of atmospheric water vapor and evapotranspiration from May to September 2012 above an arid arti.cial oasis cropland in the Heihe River Basin. The major .ndings are summarized as follows: 
+1. 	
+On a seasonal time scale, the atmospheric water vapor δD, δ18O, and d were in.uenced by the typical arid, continental climate and did not show a clear seasonal cycle. In general, δD and δ18O slowly increased from May to August and then decreased, whereas d showed a steady decrease. On a diurnal time scale, the water vapor δD, δ18O, and d exhibited a clear diurnal cycle with amplitudes of 10.7‰, 2.42‰, and 17.8‰, respectively. The variations in water vapor δD, δ18O, and d in nocturnal hours greatly varied with the presence or absence of dew. 
+
+2. 	
+In precipitation events, the water vapor δD, δ18O, and d approached isotopic equilibrium states with those δD, δ18O, and d in precipitation. Due to the kinetic fractionation effect during partial subcloud evaporation, the departures of water vapor δDand δ18O from the equilibrium states were positively correlated with RH and negatively correlated with T. The departure of water vapor d was negatively correlated with RH and positively correlated with T. The amount effect was observed during the progress of a single precipitation event. 
+
+3. 	
+The water vapor δDand δ18O were log linear dependent on the water vapor mixing ratio, with signi.cantly lower coef.cients of determination than those coef.cients at other sites, indicating the lesser in.uence of air mass advection. The water vapor d was negatively correlated with local RH (r = -0.55, p < 0.001) and positively correlated with the surface air temperature (r = 0.64, p < 0.001), suggesting the important contribution of the local source of moisture to the atmosphere. 
+
+4. 	
+The local ET acted to increase the water vapor δDand δ18O, with iso.ux values of 102.5 and 
+
+
+23.50 mmol m-2s -1‰, respectively. The iso.ux values of δD, δ18O, and d were signi.cantly stronger in the early and midseason than that in the late season. However, the dominant effect of entrained free atmosphere still decreased δDand δ18O by 10.1 and 2.24‰, respectively. Both of the local ET and entrainment exerted a positive forcing on the daytime increase in water vapor d. 
+References 
+Aemisegger, F., S. Pfahl, H. Sodemann, I. Lehner, S. I. Seneviratne, and H. Wernli (2013), Deuterium excess as a proxy for continental moisture 
+recycling and plant transpiration, Atmos. Chem. Phys. Discuss., 13(11), 29,721–29,784, 
+doi:10.5194/acpd-13-29721-2013. 
+Angert, A., J.-E. Lee, and D. A. N. Yakir (2008), Seasonal variations in the isotopic composition of near-surface water vapour in the eastern 
+Mediterranean, Tellus B, 60(4), 674–684, 
+doi:10.1111/j.1600-0889.2008.00357.x. 
+Araguas-Araguas, L., K. Froehlich, and K. Rozanski (2000), Deuterium and oxygen-18 isotope composition of precipitation and atmospheric 
+moisture, Hydrol. Processes, 14(8), 1341–1355, 
+doi:10.1002/1099-1085(20000615)14:8<1341::aid-hyp983>3.0.co;2-z. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 	11,473 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+Bastrikov, V., H. C. Steen-Larsen, V. Masson-Delmotte, K. Gribanov, O. Cattani, J. Jouzel, and V. Zakharov (2014), Continuous mea-surements of atmospheric water vapour isotopes in Western Siberia (Kourovka), Atmos. Meas. Tech. Discuss., 7(1), 475–507, 
+doi:10.5194/ 
+amtd-7-475-2014. 
+Berkelhammer, M., J. Hu, A. Bailey, D. Noone, C. Still, H. Barnard, D. Gochis, G. Hsiao, T. Rahn, and A. Turnipseed (2013), The nocturnal water cycle in an open-canopy forest, J. Geophys. Res. Atmos., 118, 10,225–10,242, 
+doi:10.1002/jgrd.50701. 
+
+Caird, M. A., J. H. Richards, and L. A. Donovan (2007), Nighttime stomatal conductance and transpiration in C-3 and C-4 plants, Plant Physiol., 143(1), 4–10, 
+doi:10.1104/pp.106.092940. 
+
+Celle-Jeanton, H., R. Gon.antini, Y. Travi, and B. Sol (2004), Oxygen-18 variations of rainwater during precipitation: Application of the Rayleigh model to selected rainfalls in Southern France, J. Hydrol., 289(1-4), 165–177, 
+doi:10.1016/j.jhydrol.2003.11.017. 
+
+Dansgaard, W. (1953), The abundance of 18O in atmospheric water and water vapour, Tellus, 5(4), 461–469. 
+Ding, Y., B. Ye, and W. Zhou (1999), Temporal and spatial precipitation distribution in the HeiHe catchment, northwest China, during the past 40a [in Chinese with English abstract], J. Glaciol. Geocryol., 21(01), 42–48. 
+Farlin, J., C. T. Lai, and K. Yoshimura (2013), In.uence of synoptic weather events on the isotopic composition of atmospheric moisture in a coastal city of the western United States, Water Resour. Res., 49,1–12, 
+doi:10.1002/wrcr.20305. 
+
+Froehlich, K., M. Kralik, W. Papesch, D. Rank, H. Schei.nger, and W. Stichler (2008), Deuterium excess in precipitation of Alpine regions—Moisture recycling, Isot. Environ. Health Stud., 44(1), 61–70, 
+doi:10.1080/10256010801887208. 
+
+Galewsky, J., C. Rella, Z. Sharp, K. Samuels, and D. Ward (2011), Surface measurements of upper tropospheric water vapor isotopic composition on the Chajnantor Plateau, Chile, Geophys. Res. Lett., 38, 
+L17803, 
+doi:10.1029/2011GL048557. 
+
+Gat, J. R. (1996), Oxygen and hydrogen isotopes in the hydrologic cycle, Annu. Rev. Earth Planet. Sci., 24(1), 225–262, 
+doi:10.1146/ 
+annurev.earth.24.1.225. 
+Good, S. P., K. Soderberg, L. Wang, and K. K. Caylor (2012), Uncertainties in the assessment of the isotopic composition of surface .uxes: A direct comparison of techniques using laser-based water vapor isotope analyzers, J. Geophys. Res., 117, 
+D15301, 
+doi:10.1029/2011JD017168. 
+
+Grif.s, T. J. (2013), Tracing the .ow of carbon dioxide and water vapor between the biosphere and atmosphere: A review of optical isotope techniques and their application, Agric. For. Meteorol., 174,85–109. 
+Grif.s, T. J., et al. (2010), Determining the oxygen isotope composition of evapotranspiration using eddy covariance, Boundary Layer Meteorol., 137(2), 307–326, 
+doi:10.1007/s10546-010-9529-5. 
+
+Grif.s, T. J., X. Lee, J. M. Baker, K. Billmark, N. Schultz, M. Erickson, X. Zhang, J. Fassbinder, W. Xiao, and N. Hu (2011), Oxygen isotope composition of evapotranspiration and its relation to C4 photosynthetic discrimination, J. Geophys. Res., 116, 
+G01035, 
+doi:10.1029/2010JG001514. 
+
+Guan, H., X. Zhang, G. Skrzypek, Z. Sun, and X. Xu (2013), Deuterium excess variations of rainfall events in a coastal area of South Australia and its relationship with synoptic weather systems and atmospheric moisture sources, J. Geophys. Res. Atmos., 118, 1123–1138, 
+doi:10.1002/jgrd.50137. 
+
+Guo, X., Q. Feng, Y. Wei, Z. Li, and W. Liu (2014), An overview of precipitation isotopes over the Extensive Hexi Region in NW China, Arabian J. Geosci., 1–14, 
+doi:10.1007/s12517-014-1521-9. 
+
+He, H., and R. B. Smith (1999), Stable isotope composition of water vapor in the atmospheric boundary layer above the forests of New England, 
+J. Geophys. Res., 104(D9), 11,657–11,673, 
+doi:10.1029/1999JD900080. 
+Helliker, B., and D. Noone (2010), Novel approaches to monitoring of water vapor isotope ratios: Plants, satellites and lasers, in Isoscapes: 
+Understanding Movement, Patterns, and Process on Earth through Isotope Mapping,editedby J.West et al., pp. 71–88, Springer, Netherlands. 
+Hoffmann, G., and M. Heimann (1997), Water isotope modeling in the Asian monsoon region, Quat. Int., 37, 115–128. 
+Hu, Z., X. Wen, X. Sun, L. Li, G. Yu, X. Lee, and S. Li (2014), Partitioning of evapotranspiration through oxygen isotopic measurements of water pools and .uxes in a temperate grassland, J. Geophys. Res. Biogeosci., 119, 358–371, 
+doi:10.1002/2013JG002367. 
+
+Hurley, J. V., J. Galewsky, J. Worden, and D. Noone (2012), A test of the advection-condensation model for subtropical water vapor using stable isotopologue observations from Mauna Loa Observatory, Hawaii, J. Geophys. Res., 117, 
+D19118, 
+doi:10.1029/2012JD018029. 
+
+Jacob, H., and C. Sonntag (1991), An 8-year record of the seasonal variation of 2H and 18O in atmospheric water vapour and precipitation at Heidelberg, Germany, Tellus B, 43(3), 291–300. 
+Jouzel, J., G. Hoffmann, R. Koster, and V. Masson (2000), Water isotopes in precipitation: Data/model comparison for present-day and past climates, Quat. Sci. Rev., 19(1), 363–379. 
+Kaimal, J. C., and J. J. Finnigan (1994), Atmospheric Boundary Layer Flows: Their Structure and Measurement, 289 pp., Oxford Univ. Press, New York. 
+Kerstel, E. R. T., and L. Gianfrani (2008), Advances in laser-based isotope ratio measurements: Selected applications, Appl. Phys., 92B, 
+439–449. Kim, K., and X. Lee (2011), Transition of stable isotope ratios of leaf water under simulated dew formation, Plant, Cell Environ., 34(10), 1790–1801, doi:10.1111/j.1365-3040.2011.02375.x. Lai, C. T., and J. R. Ehleringer (2011), Deuterium excess reveals diurnal sources of water vapor in forest air, Oecologia, 165(1), 213–223, doi:10.1007/s00442-010-1721-2. Lai, C. T., J. R. Ehleringer, and B. J. Bond (2006), Contributions of evaporation, isotopic non-steady state transpiration and atmospheric mixing on the δ18O of water vapour in Paci.c Northwest coniferous forests, Plant, Cell Environ., 29(1), 77–94. Lawrence, J. R., S. D. Gedzelman, D. Dexheimer, H. K. Cho, G. D. Carrie, R. Gasparini, C. R. Anderson, K. P. Bowman, and M. I. Biggerstaff (2004), Stable isotopic composition of water vapor in the tropics, J. Geophys. Res., 109, 
+D06115, 
+doi:10.1029/2003JD004046. 
+Lee, J. E., and I. Fung (2008), “Amount effect” of water isotopes and quantitative analysis of post-condensation processes, Hydrol. Processes, 22(1), 1–8. Lee, X., S. Sargent, R. Smith, and B. Tanner (2005), In situ measurement of the water vapor 18O/16O isotope ratio for atmospheric and ecological applications, J. Atmos. Oceanic Technol., 22(5), 555–565. Lee, X., R. Smith, and J. Williams (2006), Water vapour 18O/16O isotope ratio in surface air in New England, USA, Tellus B, 58(4), 293–304, doi:10.1111/j.1600-0889.2006.00191.x. Lee, X., K. Kim, and R. Smith (2007), Temporal variations of the 18O/16O signal of the whole-canopy transpiration in a temperate forest, Global Biogeochem. Cycles, 21, 
+GB3013, 
+doi:10.1029/2006GB002871. 
+Li, H., K. Wang, H. Jiang, and T. Yu (2009), Study of the precipitation in the Heihe River Basin: Progress and prospect [in Chinese with English abstract], J. Glaciol. Geocryol., 31(02), 334-341. Li, M., and P. Shi (2007), Climate changing characteristics of Zhangye City in Heihe River Basin during 1968–2005 [in Chinese with English abstract], 
+J. Desert Res., 27(06), 1048–1054. Li, X., G. Cheng, S. Liu, Q. Xiao, M. Ma, R. Jin, T. Che, Q. Liu, W. Wang, and Y. Qi (2013), Heihe Watershed Allied Telemetry Experimental Research (HiWATER): Scienti.c objectives and experimental design, Bull. Am. Meteorol. Soc., 94(8), 1145–1160. 
+Majoube, M. (1971), Oxygen-18 and deuterium fractionation between water and steam, J. Chim. Phys. Phys.-Chim. Biol., 68(10), 1423–1436. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,474 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+Merlivat, L., and J. Jouzel (1979), Global climatic interpretation of the deuterium-oxygen 18 relationship for precipitation, J. Geophys. Res., 84(C8), 5029–5033, 
+doi:10.1029/JC084iC08p05029. 
+
+Munksgaard, N. C., C. M. Wurster, A. Bass, and M. I. Bird (2012), Extreme short-term stable isotope variability revealed by continuous rainwater analysis, Hydrol. Processes, 26(23), 3630–3634, 
+doi:10.1002/hyp.9505. 
+
+Noone, D. (2012), Pairing measurements of the water vapor isotope ratio with humidity to deduce atmospheric moistening and dehydration in the tropical midtroposphere, J. Clim., 25(13), 4476–4494, 
+doi:10.1175/JCLI-D-11-00582.1. 
+
+Noone, D., J. Galewsky, Z. D. Sharp, J. Worden, J. Barnes, D. Baer, A. Bailey, D. P. Brown, L. Christensen, and E. Crosson (2011), Properties of air mass mixing and humidity in the subtropics from measurements of the D/H isotope ratio of water vapor at the Mauna Loa Observatory, 
+J. Geophys. Res., 116, 
+D22113, 
+doi:10.1029/2011JD015773. 
+Pfahl, S., and H. Wernli (2008), Air parcel trajectory analysis of stable isotopes in water vapor in the eastern Mediterranean, J. Geophys. Res., 113, 
+D20104, 
+doi:10.1029/2008JD009839. 
+Rambo, J. P. (2013), Investigating forest-atmosphere water exchange with high frequency spectroscopy isotope observations, San Diego State Univ., Master discertation, p. 42. Risi, C., S. Bony, F. Vimeux, M. Chong, and L. Descroix (2010), Evolution of the stable water isotopic composition of the rain sampled along Sahelian squall lines, Q. J. R. Meteorol. Soc., 136(S1), 227–242, 
+doi:10.1002/qj.485. 
+Simonin, K. A., P. Link, D. Rempe, S. Miller, J. Oshun, C. Bode, W. E. Dietrich, I. Fung, and T. E. Dawson (2014), Vegetation induced changes in the stable isotope composition of near surface humidity, Ecohydrology, 7(3), 936–949, 
+doi:10.1002/eco.1420. 
+
+Steen-Larsen,H., S. Johnsen, V. Masson-Delmotte,B.Stenni, C. Risi,H.Sodemann, D. Balslev-Clausen, T. Blunier, D. Dahl-Jensen, andM.Elleh.j (2013), Continuous monitoring of summer surface water vapor isotopic composition above the Greenland Ice Sheet, Atmos. Chem. Phys., 13(9), 4815–4828, 
+doi:10.5194/acp-13-4815-2013. 
+
+Stewart, M. K. (1975), Stable isotope fractionation due to evaporation and isotopic exchange of falling waterdrops: Applications to atmospheric processes and evaporation of lakes, J. Geophys. Res., 80(9), 1133–1146, 
+doi:10.1029/JC080i009p01133. 
+
+Sturm, P., and A. Knohl (2010), Water vapor δ2Hand δ18O measurements using off-axis integrated cavity output spectroscopy, Atmos. Meas. Tech., 3,67–77. 
+Sunmonu, N., K.-I. Muramoto, N. Kurita, K. Yoshimura, and Y. Fujiyoshi (2012), Characteristics of seasonal variation of near-surface water vapor D/H isotope ratio revealed by continuous in situ measurement in Sapporo, Japan, Sola, 8,5–8, 
+doi:10.2151/sola.2012-002. 
+
+Tian, L., T. Yao, K. MacClune, J. White, A. Schilla, B. Vaughn, R. Vachon, and K. Ichiyanagi (2007), Stable isotopic variations in west China: A consideration of moisture sources, J. Geophys. Res., 112, 
+D10112, 
+doi:10.1029/2006JD007718. 
+
+Uemura, R., Y. Matsui, K. Yoshimura, H. Motoyama, and N. Yoshida (2008), Evidence of deuterium excess in water vapor as an indicator of ocean surface conditions, J. Geophys. Res., 113, 
+D19114, 
+doi:10.1029/2008JD010209. 
+
+Vallet-Coulomb, C., F. Gasse, and C. Sonzogni (2008), Seasonal evolution of the isotopic composition of atmospheric water vapour above a tropical lake: Deuterium excess and implication for water recycling, Geochim. Cosmochim. Acta, 72(19), 4661–4674, 
+doi:10.1016/ 
+j.gca.2008.06.025. 
+Vuille, M., M. Werner, R. S. Bradley, and F. Keimig (2005), Stable isotopes in precipitation in the Asian monsoon region, J. Geophys. Res., 110, D23108, 
+doi:10.1029/2005JD006022. 
+Wang, K., H. Jiang, and H. Zhao (2005), Atmospheric water vapor transport from westerly and monsoon over the Northwest China [in Chinese with English abstract], Adv. Water Sci., 16(03), 432–438. Wang, L., K. K. Caylor, and D. Dragoni (2009), On the calibration of continuous, high-precision δ18O and delta δ2H measurements using an off-axis integrated cavity output spectrometer, Rapid Commun. Mass Spectrom., 23(4), 530–536, 
+doi:10.1002/rcm.3905. 
+Wang, X.-F., and D. Yakir (2000), Using stable isotopes of water in evapotranspiration studies, Hydrol. Processes, 14(8), 1407–1421, doi:10.1002/1099-1085(20000615)14:8<1407::AID-HYP992>3.0.CO;2-K. Webb, E. K., G. I. Pearman, and R. Leuning (1980), Correction of .ux measurements for density effects due to heat and water vapour transfer, 
+Q. J. R. Meteorol. Soc., 106(447), 85–100. Welp, L. R., X. Lee, K. Kim, T. J. Grif.s, K. A. Billmark, and J. M. Baker (2008), δ18O of water vapour, evapotranspiration and the sites of leaf water evaporation in a soybean canopy, Plant, Cell Environ., 31(9), 1214–1228, 
+doi:10.1111/j.1365-3040.2008.01826.x. 
+Welp, L. R., X. H. Lee, T. J. Grif.s, X. F. Wen, W. Xiao, S. G. Li, X. M. Sun, Z. M. Hu, M. V. Martin, and J. P. Huang (2012), A meta-analysis of water vapor deuterium-excess in the midlatitude atmospheric surface layer, Global Biogeochem. Cycles, 26, 
+GB3021, 
+doi:10.1029/2011GB004246. 
+Wen, X. F., X. M. Sun, S. C. Zhang, G. R. Yu, S. D. Sargent, and X. Lee (2008), Continuous measurement of water vapor D/H and (18)O/(16)O isotope ratios in the atmosphere, J. Hydrol., 349(3-4), 489–500, 
+doi:10.1016/j.jhydrol.2007.11.021. 
+Wen, X. F., X. Lee, X. M. Sun, J. L. Wang, Z. M. Hu, S. G. Li, and G. R. Yu (2012a), Dew water isotopic ratios and their relationships to ecosystem water pools and .uxes in a cropland and a grassland in China, Oecologia, 168(2), 549–561, 
+doi:10.1007/s00442-011-2091-0. 
+Wen, X.-F., S.-C. Zhang, X.-M. Sun, G.-R. Yu, and X. Lee (2010), Water vapor and precipitation isotope ratios in Beijing, China, J. Geophys. Res., 115, D01103, 
+doi:10.1029/2009JD012408. 
+Wen, X.-F., X. Lee, X.-M. Sun, J.-L. Wang, Y.-K. Tang, S.-G. Li, and G.-R. Yu (2012b), Intercomparison of four commercial analyzers for water vapor isotope measurement, J. Atmos. Oceanic Technol., 29(2), 235–247, 
+doi:10.1175/jtech-d-10-05037.1. 
+Williams, D. G., et al. (2004), Evapotranspiration components determined by stable isotope, sap .ow and eddy covariance techniques, Agric. For. Meteorol., 125(3-4), 241–258, 
+doi:10.1016/j.agrformet.2004.04.008. 
+
+Worden, J., D. Noone, J. Galewsky, A. Bailey, K. Bowman, D. Brown, J. Hurley, S. Kulawik, J. Lee, and M. Strong (2011), Estimate of bias in Aura TES HDO/H2O pro.les from comparison of TES and in situ HDO/H2O measurements at the Mauna Loa observatory, Atmos. Chem. Phys., 11(9), 4491–4503, 
+doi:10.5194/acp-11-4491-2011. 
+
+Xiao, W., X. Lee, T. J. Grif.s, K. Kim, L. R. Welp, and Q. Yu (2010), A modeling investigation of canopy-air oxygen isotopic exchange of water vapor and carbon dioxide in a soybean .eld, J. Geophys. Res., 115, 
+G01004, 
+doi:10.1029/2009JG001163. 
+Xiao, W., X. Lee, X. Wen, X. Sun, and S. Zhang (2012), Modeling biophysical controls on canopy foliage water 18O enrichment in wheat and corn, Global Change Biol., 18(5), 1769–1780, 
+doi:10.1111/j.1365-2486.2012.02648.x. 
+Xu, Z., S. Liu, X. Li, S. Shi, J. Wang, Z. Zhu, T. Xu, W. Wang, and M. Ma (2013), Intercomparison of surface energy .ux measurement systems used during the HiWATER-MUSOEXE, J. Geophys. Res.. Atmos., 118, 13,140–113,157, 
+doi:10.1002/2013JD020260. 
+Yakir, D., and L. D. L. Sternberg (2000), The use of stable isotopes to study ecosystem gas exchange, Oecologia, 123(3), 297–311, doi:10.1007/s004420051016. Yakir, D., and X.-F. Wang (1996), Fluxes of CO2 and water between terrestrial vegetation and the atmosphere estimated from isotope measurements, Nature, 380, 515–517. Yamanaka, T., M. Tsujimura, D. Oyunbaatar, and G. Davaa (2007), Isotopic variation of precipitation over eastern Mongolia and its implication for the atmospheric water cycle, J. Hydrol., 333(1), 21–34, 
+doi:10.1016/j.jhydrol.2006.07.022. 
+
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,475 
+
+Journal of Geophysical Research: Atmospheres 10.1002/2014JD021891 
+
+Yu, W., T. Yao, L. Tian, Z. Li, W. Sun, and Y. Wang (2006), Relationships between δ18O in summer precipitation and temperature and moisture trajectories at Muztagata, western China, Sci. China Ser. D, 49(1), 27–35. 
+Zhang, S., X. Sun, J. Wang, G. Yu, and X. Wen (2011), Short-term variations of vapor isotope ratios reveal the in.uence of atmospheric processes, 
+J. Geogr. Sci., 21(3), 401–416, 
+doi:10.1007/s11442-011-0853-6. 
+
+Zhang, Y., and Y. Wu (2008), Precipitation from different water vapor sources in the Heihe River Basin, China [in Chinese with English abstract], Arid Land Geogr., 31(03), 403–408. 
+.2014. American Geophysical Union. All Rights Reserved. 
+HUANG AND WEN 11,476 
